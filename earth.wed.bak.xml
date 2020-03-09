@@ -144,6 +144,11 @@
       <point latitude="59.346254550" longitude="17.935920110" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="1054" parent_id="1049">
+      <children/>
+      <hierarchy name="Node 4" locked="0" hidden="0"/>
+      <point latitude="59.355199822" longitude="17.946444941" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_KeyObjects" id="3" parent_id="1">
       <children/>
       <hierarchy name="choices"/>
@@ -176,6 +181,8 @@
         <child id="15"/>
         <child id="16"/>
         <child id="17"/>
+        <child id="1050"/>
+        <child id="1059"/>
         <child id="1044"/>
         <child id="987"/>
       </children>
@@ -272,7 +279,7 @@
         <child id="975"/>
         <child id="976"/>
       </children>
-      <hierarchy name="Ramp Starts" locked="0" hidden="1"/>
+      <hierarchy name="Ramp Starts" locked="0" hidden="0"/>
     </object>
     <object class="WED_Group" id="11" parent_id="5">
       <children>
@@ -1178,6 +1185,7 @@
     </object>
     <object class="WED_Group" id="1044" parent_id="5">
       <children>
+        <child id="1048"/>
         <child id="1043"/>
       </children>
       <hierarchy name="Objects new" locked="0" hidden="0"/>
@@ -1906,12 +1914,6 @@
       <markings>
         <marking value="Broken White (Roadway)"/>
       </markings>
-    </object>
-    <object class="WED_ObjPlacement" id="996" parent_id="987">
-      <children/>
-      <hierarchy name="Hangar_Tower.agp" locked="0" hidden="0"/>
-      <point latitude="59.356408217" longitude="17.945261155" heading="75.00"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/Vintage_Airports/Control_Towers/Hangar_Tower.agp" show_level="1 Default"/>
     </object>
     <object class="WED_AirportNode" id="117" parent_id="48">
       <children/>
@@ -4157,6 +4159,12 @@
       <point latitude="59.352035640" longitude="17.947497280" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings/>
     </object>
+    <object class="WED_ObjPlacement" id="1062" parent_id="987">
+      <children/>
+      <hierarchy name="jet_a.obj" locked="0" hidden="0"/>
+      <point latitude="59.353906103" longitude="17.951867432" heading="142.31"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/aircraft/general_aviation/jet_a.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_AirportNode" id="704" parent_id="703">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
@@ -4511,6 +4519,11 @@
       </children>
       <hierarchy name="Linear Feature 12" locked="0" hidden="0"/>
       <airport_chain closed="0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="1052" parent_id="1049">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.354502545" longitude="17.946674732" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_AirportNode" id="399" parent_id="398">
       <children/>
@@ -5468,7 +5481,7 @@
     <object class="WED_AirportNode" id="551" parent_id="550">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
-      <point latitude="59.354897680" longitude="17.943029390" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.354957845" longitude="17.942994299" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings>
         <marking value="Solid Yellow"/>
       </markings>
@@ -5476,7 +5489,7 @@
     <object class="WED_AirportNode" id="552" parent_id="550">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
-      <point latitude="59.355261860" longitude="17.943511960" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.355322025" longitude="17.943476869" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings>
         <marking value="Solid Yellow"/>
       </markings>
@@ -6366,6 +6379,12 @@
         <marking value="Solid Yellow"/>
       </markings>
     </object>
+    <object class="WED_ObjPlacement" id="1061" parent_id="987">
+      <children/>
+      <hierarchy name="jet_a.obj" locked="0" hidden="0"/>
+      <point latitude="59.354037093" longitude="17.952139908" heading="143.13"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/aircraft/general_aviation/jet_a.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_AirportNode" id="711" parent_id="703">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
@@ -7193,6 +7212,12 @@
       <point latitude="59.359706930" longitude="17.928632770" split="0" ctrl_latitude_lo="-0.000004520" ctrl_longitude_lo="-0.000050290" ctrl_latitude_hi="0.000004520" ctrl_longitude_hi="0.000050290"/>
       <markings/>
     </object>
+    <object class="WED_ObjPlacement" id="1059" parent_id="5">
+      <children/>
+      <hierarchy name="Terminal3.obj" locked="0" hidden="0"/>
+      <point latitude="59.356566603" longitude="17.945675093" heading="75.35"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/Terminal3.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_AirportNode" id="850" parent_id="848">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
@@ -7464,6 +7489,11 @@
       <hierarchy name="{@R}30-12{@L}C" locked="0" hidden="0"/>
       <point latitude="59.357348860" longitude="17.935428970" heading="40.60"/>
       <airport_sign style="Default" size="Large Taxiway"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="1051" parent_id="1049">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.354392251" longitude="17.946339212" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_AirportSign" id="906" parent_id="12">
       <children/>
@@ -7786,7 +7816,7 @@
     <object class="WED_AirportBeacon" id="978" parent_id="16">
       <children/>
       <hierarchy name="BCN" locked="0" hidden="0"/>
-      <point latitude="59.355027790" longitude="17.946922970"/>
+      <point latitude="59.355062914" longitude="17.947281274"/>
       <airport_beacon type="Airport"/>
     </object>
     <object class="WED_Windsock" id="979" parent_id="17">
@@ -7815,18 +7845,15 @@
       <hierarchy name="APP"/>
       <atc_frequency kind="Approach" freq="123.300"/>
     </object>
-    <object class="WED_ObjPlacement" id="986" parent_id="987">
-      <children/>
-      <hierarchy name="Dornier_328_jet_Welcome_Air.obj" locked="0" hidden="0"/>
-      <point latitude="59.353984094" longitude="17.952113440" heading="166.69"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/aircraft/regional_jet/Dornier_328_jet_Welcome_Air.obj" show_level="1 Default"/>
-    </object>
     <object class="WED_Group" id="987" parent_id="5">
       <children>
-        <child id="986"/>
+        <child id="1066"/>
+        <child id="1065"/>
+        <child id="1064"/>
+        <child id="1063"/>
+        <child id="1062"/>
+        <child id="1061"/>
         <child id="989"/>
-        <child id="996"/>
-        <child id="997"/>
         <child id="998"/>
         <child id="999"/>
         <child id="1000"/>
@@ -7879,12 +7906,6 @@
       <hierarchy name="CRJ100_Air_France.obj" locked="0" hidden="0"/>
       <point latitude="59.353600227" longitude="17.952604415" heading="52.81"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/aircraft/regional_jet/CRJ100_Air_France.obj" show_level="1 Default"/>
-    </object>
-    <object class="WED_ObjPlacement" id="997" parent_id="987">
-      <children/>
-      <hierarchy name="Small_Office_2.agp" locked="0" hidden="0"/>
-      <point latitude="59.356407609" longitude="17.946366663" heading="344.89"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/Common_Elements/Misc_Buildings/Small_Office_2.agp" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="998" parent_id="987">
       <children/>
@@ -8048,6 +8069,81 @@
       <point latitude="59.356130330" longitude="17.942931540" heading="-89.42"/>
       <obj_placement custom_msl="0" msl="0.0" resource="opensceneryx/objects/aircraft/livery/klm/avro-rj70.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="1048" parent_id="1044">
+      <children/>
+      <hierarchy name="Terminal2.obj" locked="0" hidden="0"/>
+      <point latitude="59.355481250" longitude="17.945435626" heading="-14.68"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/Terminal2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_Ring" id="1049" parent_id="1050">
+      <children>
+        <child id="1051"/>
+        <child id="1052"/>
+        <child id="1053"/>
+        <child id="1054"/>
+        <child id="1055"/>
+        <child id="1056"/>
+        <child id="1057"/>
+        <child id="1058"/>
+      </children>
+      <hierarchy name="Polygon 1 Outer Ring" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_PolygonPlacement" id="1050" parent_id="5">
+      <children>
+        <child id="1049"/>
+      </children>
+      <hierarchy name="asphalt_5D.pol" locked="0" hidden="0"/>
+      <polygon_placement heading="0.0" resource="lib/airport/pavement/asphalt_5D.pol"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="1053" parent_id="1049">
+      <children/>
+      <hierarchy name="Node 3" locked="0" hidden="0"/>
+      <point latitude="59.355036684" longitude="17.946375935" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="1055" parent_id="1049">
+      <children/>
+      <hierarchy name="Node 5" locked="0" hidden="0"/>
+      <point latitude="59.355662084" longitude="17.946217339" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="1056" parent_id="1049">
+      <children/>
+      <hierarchy name="Node 6" locked="0" hidden="0"/>
+      <point latitude="59.356064712" longitude="17.946104855" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="1057" parent_id="1049">
+      <children/>
+      <hierarchy name="Node 7" locked="0" hidden="0"/>
+      <point latitude="59.356648440" longitude="17.945801366" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="1058" parent_id="1049">
+      <children/>
+      <hierarchy name="Node 8" locked="0" hidden="0"/>
+      <point latitude="59.356502680" longitude="17.945214230" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="1063" parent_id="987">
+      <children/>
+      <hierarchy name="jet_a.obj" locked="0" hidden="0"/>
+      <point latitude="59.353776241" longitude="17.951632615" heading="141.61"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/aircraft/general_aviation/jet_a.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="1064" parent_id="987">
+      <children/>
+      <hierarchy name="jet_a.obj" locked="0" hidden="0"/>
+      <point latitude="59.353697195" longitude="17.951315835" heading="143.97"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/aircraft/general_aviation/jet_a.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="1065" parent_id="987">
+      <children/>
+      <hierarchy name="jet_a.obj" locked="0" hidden="0"/>
+      <point latitude="59.353400709" longitude="17.950544104" heading="78.44"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/aircraft/general_aviation/jet_a.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="1066" parent_id="987">
+      <children/>
+      <hierarchy name="jet_a.obj" locked="0" hidden="0"/>
+      <point latitude="59.353344511" longitude="17.950815113" heading="81.87"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/aircraft/general_aviation/jet_a.obj" show_level="1 Default"/>
+    </object>
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed">
@@ -8061,20 +8157,21 @@
       <item value="16"/>
       <item value="17"/>
       <item value="987"/>
+      <item value="1044"/>
     </pref>
     <pref name="doc/export_target" value="1"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.951816"/>
+    <pref name="map/east" value="17.950215"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.357769"/>
+    <pref name="map/north" value="59.356528"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.352082"/>
+    <pref name="map/south" value="59.353365"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.940313"/>
+    <pref name="map/west" value="17.943816"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
@@ -8097,10 +8194,10 @@
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="40"/>
     <pref name="map_Lines_Resource" value="Airport/Lines/White_line_solid.lin"/>
-    <pref name="map_Objects_Object" value="opensceneryx/objects/aircraft/livery/klm/avro-rj70.obj"/>
+    <pref name="map_Objects_Object" value="lib/airport/aircraft/general_aviation/jet_a.obj"/>
     <pref name="map_Objects_Show with" value="750"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
-    <pref name="map_Polygons_Resource" value="MisterX_Library/Ground_Textures/Asphalt_1_Dark.pol"/>
+    <pref name="map_Polygons_Resource" value="lib/airport/pavement/asphalt_5D.pol"/>
     <pref name="map_Polygons_Use Texture Map - Orthophoto" value="0"/>
     <pref name="map_Ramp Start_Airlines" value=""/>
     <pref name="map_Ramp Start_Equipment Type" value="129,130,131,132"/>
@@ -8150,8 +8247,8 @@
     <pref name="window/height" value="1397"/>
     <pref name="window/main_split" value="346"/>
     <pref name="window/main_split2" value="1844"/>
-    <pref name="window/prev_split" value="697"/>
-    <pref name="window/prop_split" value="698"/>
+    <pref name="window/prev_split" value="737"/>
+    <pref name="window/prop_split" value="738"/>
     <pref name="window/width" value="2560"/>
     <pref name="window/x_loc" value="-8"/>
     <pref name="window/y_loc" value="-8"/>
