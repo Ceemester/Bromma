@@ -1,0 +1,1 @@
+: Hole in Draped Polygon 'Asphalt_3_Light.pol' is wound counterclock wise. Reverse selected component to fix this. 
