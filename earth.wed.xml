@@ -137,7 +137,7 @@
       <children/>
       <hierarchy name="selection"/>
       <selection>
-        <sel id="5"/>
+        <sel id="1978"/>
       </selection>
     </object>
     <object class="WED_AirportNode" id="393" parent_id="391">
@@ -220,6 +220,12 @@
         <child id="16"/>
         <child id="17"/>
         <child id="1067"/>
+        <child id="1978"/>
+        <child id="1977"/>
+        <child id="1976"/>
+        <child id="1975"/>
+        <child id="1974"/>
+        <child id="1973"/>
         <child id="1044"/>
         <child id="987"/>
         <child id="1119"/>
@@ -333,6 +339,12 @@
         <child id="976"/>
       </children>
       <hierarchy name="Ramp Starts" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="1978" parent_id="5">
+      <children/>
+      <hierarchy name="flower.obj" locked="0" hidden="0"/>
+      <point latitude="59.355538934" longitude="17.946105471" heading="76.36"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/flower.obj" show_level="1 Default"/>
     </object>
     <object class="WED_Group" id="11" parent_id="5">
       <children>
@@ -1422,6 +1434,7 @@
       <children>
         <child id="1882"/>
         <child id="1043"/>
+        <child id="1972"/>
         <child id="1048"/>
         <child id="1050"/>
       </children>
@@ -6624,6 +6637,12 @@
         <marking value="Solid White (Roadway)"/>
       </markings>
     </object>
+    <object class="WED_ObjPlacement" id="1975" parent_id="5">
+      <children/>
+      <hierarchy name="flower.obj" locked="0" hidden="0"/>
+      <point latitude="59.355423438" longitude="17.946159715" heading="76.36"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/flower.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_AirportNode" id="516" parent_id="507">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
@@ -6687,6 +6706,12 @@
       <markings>
         <marking value="Solid Yellow"/>
       </markings>
+    </object>
+    <object class="WED_ObjPlacement" id="1977" parent_id="5">
+      <children/>
+      <hierarchy name="flower.obj" locked="0" hidden="0"/>
+      <point latitude="59.355500785" longitude="17.946124010" heading="76.36"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/flower.obj" show_level="1 Default"/>
     </object>
     <object class="WED_AirportChain" id="526" parent_id="9">
       <children>
@@ -10321,6 +10346,18 @@
       <point latitude="59.359113356" longitude="17.937359333" heading="324.69"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/aircraft/regional_jet/CRJ100_Austrian_Arrows.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="1972" parent_id="1044">
+      <children/>
+      <hierarchy name="Terminal2v2.obj" locked="0" hidden="0"/>
+      <point latitude="59.355619802" longitude="17.945350419" heading="343.76"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/Terminal2v2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="1976" parent_id="5">
+      <children/>
+      <hierarchy name="flower.obj" locked="0" hidden="0"/>
+      <point latitude="59.355460887" longitude="17.946143235" heading="76.36"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/flower.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="1033" parent_id="987">
       <children/>
       <hierarchy name="TinShed10x30Dk.obj" locked="0" hidden="0"/>
@@ -10346,7 +10383,7 @@
     </object>
     <object class="WED_ObjPlacement" id="1048" parent_id="1044">
       <children/>
-      <hierarchy name="Terminal2.obj" locked="0" hidden="0"/>
+      <hierarchy name="Terminal2.obj" locked="0" hidden="1"/>
       <point latitude="59.355481250" longitude="17.945435626" heading="-14.68"/>
       <obj_placement custom_msl="0" msl="0.0" resource="objects/Terminal2.obj" show_level="1 Default"/>
     </object>
@@ -10373,7 +10410,7 @@
         <child id="1049"/>
       </children>
       <hierarchy name="asphalt_5D.pol" locked="0" hidden="0"/>
-      <polygon_placement heading="0.0" resource="lib/airport/pavement/asphalt_5D.pol"/>
+      <polygon_placement heading="0.0" resource="MisterX_Library/Ground_Textures/Asphalt_3_Light.pol"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1932" parent_id="1927">
       <children/>
@@ -10596,7 +10633,7 @@
         <child id="1832"/>
       </children>
       <hierarchy name="Asphalt_1_Light.pol" locked="0" hidden="0"/>
-      <polygon_placement heading="0.0" resource="MisterX_Library/Ground_Textures/Asphalt_1_Light.pol"/>
+      <polygon_placement heading="0.0" resource="MisterX_Library/Ground_Textures/Asphalt_3_Light.pol"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1112" parent_id="1104">
       <children/>
@@ -13232,10 +13269,21 @@
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.358733858" longitude="17.941175904" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_ObjPlacement" id="1973" parent_id="5">
+      <children/>
+      <hierarchy name="flower.obj" locked="0" hidden="0"/>
+      <point latitude="59.355349241" longitude="17.946195419" heading="76.36"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/flower.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="1974" parent_id="5">
+      <children/>
+      <hierarchy name="flower.obj" locked="0" hidden="0"/>
+      <point latitude="59.355388439" longitude="17.946176194" heading="76.36"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/flower.obj" show_level="1 Default"/>
+    </object>
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed">
-      <item value="5"/>
       <item value="6"/>
       <item value="8"/>
       <item value="9"/>
@@ -13249,22 +13297,23 @@
       <item value="1119"/>
       <item value="1481"/>
       <item value="1489"/>
+      <item value="1521"/>
       <item value="1723"/>
       <item value="1896"/>
     </pref>
     <pref name="doc/export_target" value="1"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.948309"/>
+    <pref name="map/east" value="17.946769"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.358705"/>
+    <pref name="map/north" value="59.355629"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.355980"/>
+    <pref name="map/south" value="59.355157"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.941565"/>
+    <pref name="map/west" value="17.945599"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
@@ -13286,11 +13335,11 @@
     <pref name="map_Hole_Markings" value=""/>
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="40"/>
-    <pref name="map_Lines_Resource" value="MisterX_Library/Airport/Taxilines/White_Line.lin"/>
-    <pref name="map_Objects_Object" value="objects/Stores/Rusta.obj"/>
+    <pref name="map_Lines_Resource" value="MisterX_Library/Ground_Textures/Road_Asphalt_1.lin"/>
+    <pref name="map_Objects_Object" value="objects/flower.obj"/>
     <pref name="map_Objects_Show with" value="750"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
-    <pref name="map_Polygons_Resource" value="MisterX_Library/Ground_Textures/Terrain/Grass_1.pol"/>
+    <pref name="map_Polygons_Resource" value="MisterX_Library/Ground_Textures/Invisible_Asphalt.pol"/>
     <pref name="map_Polygons_Use Texture Map - Orthophoto" value="0"/>
     <pref name="map_Ramp Start_Airlines" value=""/>
     <pref name="map_Ramp Start_Equipment Type" value="129,130,131,132"/>
@@ -13340,8 +13389,8 @@
     <pref name="window/height" value="1397"/>
     <pref name="window/main_split" value="346"/>
     <pref name="window/main_split2" value="2155"/>
-    <pref name="window/prev_split" value="797"/>
-    <pref name="window/prop_split" value="321"/>
+    <pref name="window/prev_split" value="817"/>
+    <pref name="window/prop_split" value="341"/>
     <pref name="window/width" value="2560"/>
     <pref name="window/x_loc" value="-8"/>
     <pref name="window/y_loc" value="-8"/>
