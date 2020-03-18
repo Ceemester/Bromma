@@ -147,7 +147,9 @@
     <object class="WED_Select" id="2" parent_id="1">
       <children/>
       <hierarchy name="selection"/>
-      <selection/>
+      <selection>
+        <sel id="2274"/>
+      </selection>
     </object>
     <object class="WED_KeyObjects" id="3" parent_id="1">
       <children/>
@@ -948,6 +950,7 @@
     </object>
     <object class="WED_Group" id="1882" parent_id="1044">
       <children>
+        <child id="2234"/>
         <child id="1897"/>
         <child id="1881"/>
       </children>
@@ -1422,8 +1425,10 @@
     </object>
     <object class="WED_Group" id="1044" parent_id="5">
       <children>
+        <child id="2239"/>
         <child id="2057"/>
         <child id="1882"/>
+        <child id="2233"/>
         <child id="1043"/>
         <child id="1972"/>
         <child id="1048"/>
@@ -6946,6 +6951,12 @@
       <point latitude="59.355006360" longitude="17.944841120" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <markings/>
     </object>
+    <object class="WED_ObjPlacement" id="2253" parent_id="2239">
+      <children/>
+      <hierarchy name="Honda_CR_V_Black.obj" locked="0" hidden="0"/>
+      <point latitude="59.357181596" longitude="17.946983593" heading="22.10"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Honda_CR_V_Black.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_AirportChain" id="547" parent_id="9">
       <children>
         <child id="548"/>
@@ -6958,6 +6969,12 @@
       <children/>
       <hierarchy name="Node 4" locked="0" hidden="0"/>
       <point latitude="59.357725042" longitude="17.946578069" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2246" parent_id="2239">
+      <children/>
+      <hierarchy name="Toyota_Camry_Red.obj" locked="0" hidden="0"/>
+      <point latitude="59.357017991" longitude="17.946664374" heading="265.36"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Toyota_Camry_Red.obj" show_level="1 Default"/>
     </object>
     <object class="WED_AirportNode" id="548" parent_id="547">
       <children/>
@@ -6992,6 +7009,12 @@
       <hierarchy name="Node 8" locked="0" hidden="0"/>
       <point latitude="59.354572454" longitude="17.947824172" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_ObjPlacement" id="2241" parent_id="2239">
+      <children/>
+      <hierarchy name="Golf_Silver.obj" locked="0" hidden="0"/>
+      <point latitude="59.356991913" longitude="17.946656187" heading="-94.52"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Golf_Silver.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_AirportNode" id="551" parent_id="550">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
@@ -6999,6 +7022,12 @@
       <markings>
         <marking value="Solid Yellow"/>
       </markings>
+    </object>
+    <object class="WED_ObjPlacement" id="2250" parent_id="2239">
+      <children/>
+      <hierarchy name="Parking_Space_10.obj" locked="0" hidden="0"/>
+      <point latitude="59.357159622" longitude="17.947104877" heading="-159.78"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Ground_Markings/Parking_Spaces/Parking_Space_10.obj" show_level="1 Default"/>
     </object>
     <object class="WED_AirportNode" id="552" parent_id="550">
       <children/>
@@ -7084,6 +7113,12 @@
       <hierarchy name="Linear Feature 4" locked="0" hidden="0"/>
       <airport_chain closed="0"/>
     </object>
+    <object class="WED_ObjPlacement" id="2269" parent_id="2239">
+      <children/>
+      <hierarchy name="VW_Jetta_Yellow.obj" locked="0" hidden="0"/>
+      <point latitude="59.357538042" longitude="17.946798228" heading="108.89"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/VW_Jetta_Yellow.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_AirportNode" id="563" parent_id="562">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
@@ -7138,6 +7173,12 @@
       <hierarchy name="White_Line.lin" locked="0" hidden="0"/>
       <line_placement resource="MisterX_Library/Airport/Taxilines/White_Line.lin" closed="0"/>
     </object>
+    <object class="WED_ObjPlacement" id="2257" parent_id="2239">
+      <children/>
+      <hierarchy name="Parking_Space_6.obj" locked="0" hidden="0"/>
+      <point latitude="59.357609730" longitude="17.946946251" heading="110.78"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Ground_Markings/Parking_Spaces/Parking_Space_6.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_AirportNode" id="567" parent_id="565">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
@@ -7145,6 +7186,12 @@
       <markings>
         <marking value="Solid Yellow"/>
       </markings>
+    </object>
+    <object class="WED_ObjPlacement" id="2266" parent_id="2239">
+      <children/>
+      <hierarchy name="VW_Jetta_Blue.obj" locked="0" hidden="0"/>
+      <point latitude="59.357614848" longitude="17.946852478" heading="109.29"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/VW_Jetta_Blue.obj" show_level="1 Default"/>
     </object>
     <object class="WED_AirportNode" id="568" parent_id="565">
       <children/>
@@ -11616,6 +11663,12 @@
       <hierarchy name="Node 3" locked="0" hidden="0"/>
       <point latitude="59.355032868" longitude="17.942187311" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_ObjPlacement" id="2235" parent_id="2239">
+      <children/>
+      <hierarchy name="Parking_Space_10.obj" locked="0" hidden="0"/>
+      <point latitude="59.356977690" longitude="17.946665964" heading="86.78"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Ground_Markings/Parking_Spaces/Parking_Space_10.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1288" parent_id="1283">
       <children/>
       <hierarchy name="Node 4" locked="0" hidden="0"/>
@@ -11804,6 +11857,12 @@
       <hierarchy name="Node 3" locked="0" hidden="0"/>
       <point latitude="59.358156736" longitude="17.942714450" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_ObjPlacement" id="2219" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355070793" longitude="17.946500566" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1336" parent_id="1332">
       <children/>
       <hierarchy name="Node 4" locked="0" hidden="0"/>
@@ -11937,6 +11996,12 @@
       <children/>
       <hierarchy name="Node 4" locked="0" hidden="0"/>
       <point latitude="59.353028922" longitude="17.950254950" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2251" parent_id="2239">
+      <children/>
+      <hierarchy name="Toyota_Camry_Red.obj" locked="0" hidden="0"/>
+      <point latitude="59.357163411" longitude="17.947082291" heading="-159.08"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Toyota_Camry_Red.obj" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1368" parent_id="1363">
       <children/>
@@ -12542,6 +12607,12 @@
       <hierarchy name="Asphalt_3_Light.pol" locked="0" hidden="0"/>
       <polygon_placement heading="0.0" resource="MisterX_Library/Ground_Textures/Asphalt_3_Light.pol"/>
     </object>
+    <object class="WED_ObjPlacement" id="2216" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355518427" longitude="17.946376548" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_ObjPlacement" id="1499" parent_id="1489">
       <children/>
       <hierarchy name="grey_6m.obj" locked="0" hidden="0"/>
@@ -12840,6 +12911,12 @@
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.358465748" longitude="17.941690977" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2252" parent_id="2239">
+      <children/>
+      <hierarchy name="Toyota_Camry_Red.obj" locked="0" hidden="0"/>
+      <point latitude="59.357192085" longitude="17.946928586" heading="-159.08"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Toyota_Camry_Red.obj" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1570" parent_id="1569">
       <children/>
@@ -13755,6 +13832,12 @@
       <hierarchy name="Node 10" locked="0" hidden="0"/>
       <point latitude="59.354887440" longitude="17.945194643" split="0" ctrl_latitude_lo="-0.000025271" ctrl_longitude_lo="-0.000007484" ctrl_latitude_hi="0.000025271" ctrl_longitude_hi="0.000007484"/>
     </object>
+    <object class="WED_ObjPlacement" id="2215" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355658527" longitude="17.946366492" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2006" parent_id="1995">
       <children/>
       <hierarchy name="Node 11" locked="0" hidden="0"/>
@@ -14555,6 +14638,290 @@
       <hierarchy name="Node 9" locked="0" hidden="0"/>
       <point latitude="59.358151014" longitude="17.938017871" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_SimpleBoundaryNode" id="2207" parent_id="0">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.355084461" longitude="17.946604472"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="2212" parent_id="0">
+      <children/>
+      <hierarchy name="Node 6" locked="0" hidden="0"/>
+      <point latitude="59.355036622" longitude="17.946497214"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2217" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355405664" longitude="17.946463696" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2218" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355221143" longitude="17.946574306" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2220" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.354901648" longitude="17.946507269" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2221" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355277525" longitude="17.947100544" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2222" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355398830" longitude="17.946983229" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2223" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355538930" longitude="17.946906137" heading="45.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2224" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355576517" longitude="17.947187691" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2225" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355704657" longitude="17.947941853" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2226" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355670487" longitude="17.948072575" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2227" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355287776" longitude="17.948659145" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2228" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355135717" longitude="17.948615572" heading="180.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2229" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355010994" longitude="17.948746293" heading="30.96"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2230" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355137425" longitude="17.948910533" heading="6.34"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2231" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355316821" longitude="17.948960810" heading="90.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2232" parent_id="2233">
+      <children/>
+      <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
+      <point latitude="59.355268982" longitude="17.949383141" heading="90.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_Group" id="2233" parent_id="1044">
+      <children>
+        <child id="2232"/>
+        <child id="2231"/>
+        <child id="2230"/>
+        <child id="2229"/>
+        <child id="2228"/>
+        <child id="2227"/>
+        <child id="2226"/>
+        <child id="2225"/>
+        <child id="2224"/>
+        <child id="2223"/>
+        <child id="2222"/>
+        <child id="2221"/>
+        <child id="2220"/>
+        <child id="2219"/>
+        <child id="2218"/>
+        <child id="2217"/>
+        <child id="2216"/>
+        <child id="2215"/>
+      </children>
+      <hierarchy name="Group 6" locked="0" hidden="1"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2234" parent_id="1882">
+      <children/>
+      <hierarchy name="Stadium.obj" locked="0" hidden="0"/>
+      <point latitude="59.356118496" longitude="17.949195306" heading="21.50"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/Stores/Stadium.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2238" parent_id="2239">
+      <children/>
+      <hierarchy name="Parking_Space_6.obj" locked="0" hidden="0"/>
+      <point latitude="59.357138724" longitude="17.946652077" heading="87.37"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Ground_Markings/Parking_Spaces/Parking_Space_6.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_Group" id="2239" parent_id="1044">
+      <children>
+        <child id="2257"/>
+        <child id="2271"/>
+        <child id="2270"/>
+        <child id="2269"/>
+        <child id="2266"/>
+        <child id="2264"/>
+        <child id="2263"/>
+        <child id="2261"/>
+        <child id="2260"/>
+        <child id="2259"/>
+        <child id="2256"/>
+        <child id="2255"/>
+        <child id="2254"/>
+        <child id="2250"/>
+        <child id="2274"/>
+        <child id="2247"/>
+        <child id="2272"/>
+        <child id="2252"/>
+        <child id="2251"/>
+        <child id="2246"/>
+        <child id="2245"/>
+        <child id="2273"/>
+        <child id="2244"/>
+        <child id="2253"/>
+        <child id="2243"/>
+        <child id="2242"/>
+        <child id="2241"/>
+        <child id="2240"/>
+        <child id="2238"/>
+        <child id="2235"/>
+      </children>
+      <hierarchy name="Parking" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2240" parent_id="2239">
+      <children/>
+      <hierarchy name="Golf_Silver.obj" locked="0" hidden="0"/>
+      <point latitude="59.357125850" longitude="17.946645723" heading="-94.52"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Golf_Silver.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2242" parent_id="2239">
+      <children/>
+      <hierarchy name="Honda_CR_V_Black.obj" locked="0" hidden="0"/>
+      <point latitude="59.357098723" longitude="17.946654932" heading="268.12"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Honda_CR_V_Black.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2243" parent_id="2239">
+      <children/>
+      <hierarchy name="Honda_CR_V_Black.obj" locked="0" hidden="0"/>
+      <point latitude="59.356964491" longitude="17.946667141" heading="268.12"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Honda_CR_V_Black.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2244" parent_id="2239">
+      <children/>
+      <hierarchy name="Honda_CR_V_Black.obj" locked="0" hidden="0"/>
+      <point latitude="59.356938414" longitude="17.946670629" heading="268.12"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Honda_CR_V_Black.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2245" parent_id="2239">
+      <children/>
+      <hierarchy name="Toyota_Camry_Red.obj" locked="0" hidden="0"/>
+      <point latitude="59.356858234" longitude="17.946682456" heading="265.36"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Toyota_Camry_Red.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2247" parent_id="2239">
+      <children/>
+      <hierarchy name="VW_Jetta_Yellow.obj" locked="0" hidden="0"/>
+      <point latitude="59.356802840" longitude="17.946686382" heading="86.31"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/VW_Jetta_Yellow.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2254" parent_id="2239">
+      <children/>
+      <hierarchy name="Parking_Space_10.obj" locked="0" hidden="0"/>
+      <point latitude="59.357679821" longitude="17.946893412" heading="-69.72"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Ground_Markings/Parking_Spaces/Parking_Space_10.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2255" parent_id="2239">
+      <children/>
+      <hierarchy name="Parking_Space_10.obj" locked="0" hidden="0"/>
+      <point latitude="59.357863100" longitude="17.947129218" heading="110.51"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Ground_Markings/Parking_Spaces/Parking_Space_10.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2256" parent_id="2239">
+      <children/>
+      <hierarchy name="Parking_Space_6.obj" locked="0" hidden="0"/>
+      <point latitude="59.357527804" longitude="17.946782999" heading="-69.51"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Ground_Markings/Parking_Spaces/Parking_Space_6.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2259" parent_id="2239">
+      <children/>
+      <hierarchy name="BMW_3_Silver.obj" locked="0" hidden="0"/>
+      <point latitude="59.357548795" longitude="17.946898691" heading="109.50"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/BMW_3_Silver.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2260" parent_id="2239">
+      <children/>
+      <hierarchy name="BMW_3_Silver.obj" locked="0" hidden="0"/>
+      <point latitude="59.357701383" longitude="17.947010204" heading="288.22"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/BMW_3_Silver.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2261" parent_id="2239">
+      <children/>
+      <hierarchy name="BMW_3_Silver.obj" locked="0" hidden="0"/>
+      <point latitude="59.357792014" longitude="17.946980066" heading="289.98"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/BMW_3_Silver.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2263" parent_id="2239">
+      <children/>
+      <hierarchy name="Camaro_Red.obj" locked="0" hidden="0"/>
+      <point latitude="59.357799183" longitude="17.947093589" heading="111.54"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Camaro_Red.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2264" parent_id="2239">
+      <children/>
+      <hierarchy name="Dodge_Ram_Yellow.obj" locked="0" hidden="0"/>
+      <point latitude="59.357825809" longitude="17.947102630" heading="107.53"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Dodge_Ram_Yellow.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2270" parent_id="2239">
+      <children/>
+      <hierarchy name="Parking_Space_8.obj" locked="0" hidden="0"/>
+      <point latitude="59.357050991" longitude="17.946976757" heading="86.93"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Ground_Markings/Parking_Spaces/Parking_Space_8.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2271" parent_id="2239">
+      <children/>
+      <hierarchy name="Parking_Space_8.obj" locked="0" hidden="0"/>
+      <point latitude="59.356889391" longitude="17.946897192" heading="267.04"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Ground_Markings/Parking_Spaces/Parking_Space_8.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2272" parent_id="2239">
+      <children/>
+      <hierarchy name="Toyota_Camry_Red.obj" locked="0" hidden="0"/>
+      <point latitude="59.357010822" longitude="17.946978013" heading="-91.31"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Toyota_Camry_Red.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2273" parent_id="2239">
+      <children/>
+      <hierarchy name="Honda_CR_V_Black.obj" locked="0" hidden="0"/>
+      <point latitude="59.356956233" longitude="17.946893652" heading="268.12"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/Honda_CR_V_Black.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="2274" parent_id="2239">
+      <children/>
+      <hierarchy name="VW_Jetta_Yellow.obj" locked="0" hidden="0"/>
+      <point latitude="59.356879647" longitude="17.946998614" heading="86.31"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/VW_Jetta_Yellow.obj" show_level="1 Default"/>
+    </object>
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed">
@@ -14575,20 +14942,22 @@
       <item value="1723"/>
       <item value="1882"/>
       <item value="1896"/>
+      <item value="2057"/>
+      <item value="2233"/>
     </pref>
     <pref name="doc/export_target" value="1"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.945321"/>
+    <pref name="map/east" value="17.949343"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.360419"/>
+    <pref name="map/north" value="59.358668"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.357649"/>
+    <pref name="map/south" value="59.356190"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.938467"/>
+    <pref name="map/west" value="17.943209"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
@@ -14599,7 +14968,7 @@
     <pref name="map_Facades_Pick Walls" value="1"/>
     <pref name="map_Facades_Resource" value="MisterX_Library/Airport/Fences_Barriers/Fence_w_Barrier.fac"/>
     <pref name="map_Forests_Density" value="2.000000"/>
-    <pref name="map_Forests_Resource" value="MisterX_Library/Vegetation/Grass/Grass.for"/>
+    <pref name="map_Forests_Resource" value="FlyAgi_Vegetation/Forests/wetl_wdy_wrm_dry.for"/>
     <pref name="map_Helipad_Edge Lights" value="15"/>
     <pref name="map_Helipad_Markings" value="67"/>
     <pref name="map_Helipad_Roughness" value="0.000000"/>
@@ -14611,7 +14980,7 @@
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="40"/>
     <pref name="map_Lines_Resource" value="MisterX_Library/Airport/Taxilines/Centerline.lin"/>
-    <pref name="map_Objects_Object" value="MisterX_Library/Vehicles/Trucks/Box_Truck_DHL.obj"/>
+    <pref name="map_Objects_Object" value="MisterX_Library/Airport/Ground_Markings/Parking_Spaces/Parking_Space_8.obj"/>
     <pref name="map_Objects_Show with" value="750"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
     <pref name="map_Polygons_Resource" value="MisterX_Library/Ground_Textures/Invisible_Asphalt.pol"/>
@@ -14664,8 +15033,8 @@
     <pref name="window/height" value="1397"/>
     <pref name="window/main_split" value="346"/>
     <pref name="window/main_split2" value="2155"/>
-    <pref name="window/prev_split" value="827"/>
-    <pref name="window/prop_split" value="351"/>
+    <pref name="window/prev_split" value="847"/>
+    <pref name="window/prop_split" value="371"/>
     <pref name="window/width" value="2560"/>
     <pref name="window/x_loc" value="-8"/>
     <pref name="window/y_loc" value="-8"/>
