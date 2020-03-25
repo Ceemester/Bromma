@@ -248,7 +248,7 @@
         <meta_data_entry pair="datum_lat,59.354444444"/>
         <meta_data_entry pair="datum_lon,17.942222222"/>
         <meta_data_entry pair="faa_code,"/>
-        <meta_data_entry pair="gui_label,Bromma"/>
+        <meta_data_entry pair="gui_label,3D"/>
         <meta_data_entry pair="iata_code,BMA"/>
         <meta_data_entry pair="icao_code,ESSB"/>
         <meta_data_entry pair="region_code,ES"/>
