@@ -133,29 +133,29 @@
       </children>
       <hierarchy name="Markings" locked="0" hidden="1"/>
     </object>
-    <object class="WED_Select" id="2" parent_id="1">
-      <children/>
-      <hierarchy name="selection"/>
-      <selection>
-        <sel id="2703"/>
-      </selection>
-    </object>
     <object class="WED_TextureBezierNode" id="3517" parent_id="3515">
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.351402457" longitude="17.946225358" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <texture_node s="1.0000" t="0.0" sc_lo="-0.0818" tc_lo="-0.0133" sc_hi="0.0818" tc_hi="0.0133"/>
     </object>
-    <object class="WED_AirportNode" id="393" parent_id="391">
+    <object class="WED_Select" id="2" parent_id="1">
       <children/>
-      <hierarchy name="unnamed entity" locked="0" hidden="0"/>
-      <point latitude="59.346254550" longitude="17.935920110" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
-      <markings/>
+      <hierarchy name="selection"/>
+      <selection>
+        <sel id="3424"/>
+      </selection>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1054" parent_id="1049">
       <children/>
       <hierarchy name="Node 4" locked="0" hidden="0"/>
       <point latitude="59.355199822" longitude="17.946444941" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_AirportNode" id="393" parent_id="391">
+      <children/>
+      <hierarchy name="unnamed entity" locked="0" hidden="0"/>
+      <point latitude="59.346254550" longitude="17.935920110" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <markings/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1970" parent_id="1965">
       <children/>
@@ -6312,6 +6312,17 @@
       </children>
       <hierarchy name="Airport Boundary 1" locked="0" hidden="0"/>
     </object>
+    <object class="WED_ExclusionZone" id="3607" parent_id="2280">
+      <children>
+        <child id="3608"/>
+        <child id="3609"/>
+      </children>
+      <hierarchy name="Exclusion ESESOO" locked="0" hidden="0"/>
+      <excluzions>
+        <exclusion value="Objects"/>
+        <exclusion value="Forests"/>
+      </excluzions>
+    </object>
     <object class="WED_AirportNode" id="392" parent_id="391">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
@@ -7729,6 +7740,12 @@
       <point latitude="59.357538042" longitude="17.946798228" heading="108.89"/>
       <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Cars/VW_Jetta_Yellow.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_AirportNode" id="564" parent_id="562">
+      <children/>
+      <hierarchy name="unnamed entity" locked="0" hidden="0"/>
+      <point latitude="59.355180980" longitude="17.942229450" split="0" ctrl_latitude_lo="0.000040690" ctrl_longitude_lo="-0.000128220" ctrl_latitude_hi="-0.000040690" ctrl_longitude_hi="0.000128220"/>
+      <markings/>
+    </object>
     <object class="WED_LinePlacement" id="1959" parent_id="2057">
       <children>
         <child id="1960"/>
@@ -7739,12 +7756,6 @@
       </children>
       <hierarchy name="White_Line.lin" locked="0" hidden="0"/>
       <line_placement closed="0" resource="MisterX_Library/Airport/Taxilines/White_Line.lin"/>
-    </object>
-    <object class="WED_AirportNode" id="564" parent_id="562">
-      <children/>
-      <hierarchy name="unnamed entity" locked="0" hidden="0"/>
-      <point latitude="59.355180980" longitude="17.942229450" split="0" ctrl_latitude_lo="0.000040690" ctrl_longitude_lo="-0.000128220" ctrl_latitude_hi="-0.000040690" ctrl_longitude_hi="0.000128220"/>
-      <markings/>
     </object>
     <object class="WED_AirportNode" id="566" parent_id="565">
       <children/>
@@ -10651,6 +10662,11 @@
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
       <point latitude="59.354392251" longitude="17.946339212" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="3608" parent_id="3607">
+      <children/>
+      <hierarchy name="Start" locked="0" hidden="0"/>
+      <point latitude="59.361208466" longitude="17.933337071"/>
     </object>
     <object class="WED_AirportSign" id="907" parent_id="12">
       <children/>
@@ -17172,6 +17188,8 @@
     </object>
     <object class="WED_Group" id="2280" parent_id="5">
       <children>
+        <child id="3610"/>
+        <child id="3607"/>
         <child id="2277"/>
       </children>
       <hierarchy name="Exlusions" locked="0" hidden="0"/>
@@ -22065,6 +22083,11 @@
       <hierarchy name="Node 3" locked="0" hidden="0"/>
       <point latitude="59.352272442" longitude="17.950466380" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_SimpleBoundaryNode" id="3609" parent_id="3607">
+      <children/>
+      <hierarchy name="End" locked="0" hidden="0"/>
+      <point latitude="59.362019641" longitude="17.936310600"/>
+    </object>
     <object class="WED_TextureBezierNode" id="3468" parent_id="3466">
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
@@ -22394,6 +22417,12 @@
       <point latitude="59.352291811" longitude="17.948631788" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <texture_node s="1.0000" t="1.0000" sc_lo="0.0" tc_lo="0.0" sc_hi="0.0" tc_hi="0.0"/>
     </object>
+    <object class="WED_ObjPlacement" id="3610" parent_id="2280">
+      <children/>
+      <hierarchy name="ESSB_ekesoo.obj" locked="0" hidden="0"/>
+      <point latitude="59.361443083" longitude="17.933735982" heading="76.09"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/Stores/ESSB_ekesoo.obj" show_level="1 Default"/>
+    </object>
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed">
@@ -22416,7 +22445,6 @@
       <item value="2057"/>
       <item value="2233"/>
       <item value="2239"/>
-      <item value="2280"/>
       <item value="2636"/>
       <item value="2637"/>
       <item value="2638"/>
@@ -22425,17 +22453,17 @@
     </pref>
     <pref name="doc/export_target" value="5"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.954265"/>
+    <pref name="map/east" value="17.956056"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.354246"/>
+    <pref name="map/north" value="59.356109"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.353183"/>
+    <pref name="map/south" value="59.347629"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.951964"/>
+    <pref name="map/west" value="17.937692"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
@@ -22458,7 +22486,7 @@
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="40"/>
     <pref name="map_Lines_Resource" value="opensceneryx/lines/runway_closed/1.lin"/>
-    <pref name="map_Objects_Object" value="opensceneryx/objects/furniture/cones_bollards/1.obj"/>
+    <pref name="map_Objects_Object" value="objects/Stores/ESSB_ekesoo.obj"/>
     <pref name="map_Objects_Show with" value="750"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
     <pref name="map_Polygons_Resource" value="opensceneryx/polygons/airport/runway/runway_closed/yellow/3.pol"/>
@@ -22511,8 +22539,8 @@
     <pref name="window/height" value="997"/>
     <pref name="window/main_split" value="444"/>
     <pref name="window/main_split2" value="1583"/>
-    <pref name="window/prev_split" value="387"/>
-    <pref name="window/prop_split" value="481"/>
+    <pref name="window/prev_split" value="407"/>
+    <pref name="window/prop_split" value="298"/>
     <pref name="window/width" value="1920"/>
     <pref name="window/x_loc" value="-8"/>
     <pref name="window/y_loc" value="0"/>
