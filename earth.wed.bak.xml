@@ -131,7 +131,7 @@
       <children/>
       <hierarchy name="selection"/>
       <selection>
-        <sel id="3967"/>
+        <sel id="3970"/>
       </selection>
     </object>
     <object class="WED_TextureBezierNode" id="3517" parent_id="3515">
@@ -15642,6 +15642,12 @@
       <hierarchy name="Node 7" locked="0" hidden="0"/>
       <point latitude="59.356491455" longitude="17.940780008" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_ObjPlacement" id="3970" parent_id="3965">
+      <children/>
+      <hierarchy name="Dumpster_m4_empty.obj" locked="0" hidden="0"/>
+      <point latitude="59.356174568" longitude="17.947783603" heading="26.12"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="lib/street/waste_management/Dumpster_m4_empty.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2067" parent_id="2058">
       <children/>
       <hierarchy name="Node 9" locked="0" hidden="0"/>
@@ -19441,6 +19447,12 @@
       <hierarchy name="Node 6" locked="0" hidden="0"/>
       <point latitude="59.353517453" longitude="17.948647115" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_ObjPlacement" id="3969" parent_id="3965">
+      <children/>
+      <hierarchy name="Dumpster_m4_full.obj" locked="0" hidden="0"/>
+      <point latitude="59.356186687" longitude="17.947739292" heading="18.08"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="lib/street/waste_management/Dumpster_m4_full.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2582" parent_id="2573">
       <children/>
       <hierarchy name="Node 8" locked="0" hidden="0"/>
@@ -21974,10 +21986,22 @@
       <hierarchy name="Node 94" locked="0" hidden="0"/>
       <point latitude="59.352601634" longitude="17.944224932" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_ObjPlacement" id="3968" parent_id="3965">
+      <children/>
+      <hierarchy name="Dumpster_m8.obj" locked="0" hidden="0"/>
+      <point latitude="59.356196051" longitude="17.947688496" heading="22.44"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="lib/street/waste_management/Dumpster_m8.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="3089" parent_id="2993">
       <children/>
       <hierarchy name="Node 95" locked="0" hidden="0"/>
       <point latitude="59.352598511" longitude="17.944180009" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="3972" parent_id="3965">
+      <children/>
+      <hierarchy name="Dumpster_30Y_empty_2.obj" locked="0" hidden="0"/>
+      <point latitude="59.356221391" longitude="17.947578259" heading="-60.04"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="lib/street/waste_management/Dumpster_30Y_empty_2.obj" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="3093" parent_id="2993">
       <children/>
@@ -22543,6 +22567,10 @@
     </object>
     <object class="WED_Group" id="3965" parent_id="1044">
       <children>
+        <child id="3972"/>
+        <child id="3970"/>
+        <child id="3969"/>
+        <child id="3968"/>
         <child id="3967"/>
         <child id="3966"/>
         <child id="3964"/>
@@ -23927,7 +23955,7 @@
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="40"/>
     <pref name="map_Lines_Resource" value="lib/airport/lines/59_double_parking_b.lin"/>
-    <pref name="map_Objects_Object" value="lib/street/waste_management/Container_1100L_x4.obj"/>
+    <pref name="map_Objects_Object" value="lib/street/waste_management/TrashCan_32g_06.obj"/>
     <pref name="map_Objects_Show with" value="750"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
     <pref name="map_Polygons_Resource" value="MisterX_Library/Ground_Textures/Asphalt_1_Base.pol"/>
