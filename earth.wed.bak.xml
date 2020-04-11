@@ -141,9 +141,7 @@
     <object class="WED_Select" id="2" parent_id="1">
       <children/>
       <hierarchy name="selection"/>
-      <selection>
-        <sel id="4556"/>
-      </selection>
+      <selection/>
     </object>
     <object class="WED_TextureBezierNode" id="3517" parent_id="3515">
       <children/>
@@ -326,7 +324,6 @@
         <child id="960"/>
         <child id="961"/>
         <child id="962"/>
-        <child id="965"/>
         <child id="966"/>
         <child id="967"/>
         <child id="968"/>
@@ -2367,6 +2364,7 @@
     <object class="WED_Group" id="3897" parent_id="1044">
       <children>
         <child id="3889"/>
+        <child id="4559"/>
         <child id="3940"/>
         <child id="3936"/>
       </children>
@@ -11471,12 +11469,6 @@
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.356738456" longitude="17.946590885" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
-    <object class="WED_RampPosition" id="965" parent_id="10">
-      <children/>
-      <hierarchy name="Gate 2" locked="0" hidden="0"/>
-      <point latitude="59.354649480" longitude="17.945287390" heading="93.25"/>
-      <ramp_start type="Misc" traffic="63" width="E" ramp_op_type="None" airlines=""/>
-    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="3159" parent_id="2993">
       <children/>
       <hierarchy name="Node 165" locked="0" hidden="0"/>
@@ -15477,6 +15469,7 @@
         <child id="4031"/>
         <child id="4030"/>
         <child id="2660"/>
+        <child id="4557"/>
         <child id="2702"/>
         <child id="2641"/>
         <child id="1591"/>
@@ -20025,7 +20018,7 @@
     <object class="WED_ObjPlacement" id="2649" parent_id="3899">
       <children/>
       <hierarchy name="AreaFlood_HighMast.obj" locked="0" hidden="0"/>
-      <point latitude="59.355029935" longitude="17.945225639" heading="0.0"/>
+      <point latitude="59.355125008" longitude="17.945016413" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/street/streetlights/AreaFlood_HighMast.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="2650" parent_id="4093">
@@ -21080,6 +21073,13 @@
       <children/>
       <hierarchy name="Node 168" locked="0" hidden="0"/>
       <point latitude="59.353926684" longitude="17.940935108" split="0" ctrl_latitude_lo="0.000003747" ctrl_longitude_lo="0.000004901" ctrl_latitude_hi="-0.000003747" ctrl_longitude_hi="-0.000004901"/>
+    </object>
+    <object class="WED_FacadeRing" id="4558" parent_id="4559">
+      <children>
+        <child id="4560"/>
+        <child id="4561"/>
+      </children>
+      <hierarchy name="Facade 12 outer ring" locked="0" hidden="0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2860" parent_id="2841">
       <children/>
@@ -26788,6 +26788,31 @@
       <point latitude="59.354775582" longitude="17.945744961" heading="-5.68"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/Ramp_Equipment/Belt_Loader.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="4557" parent_id="2642">
+      <children/>
+      <hierarchy name="Gate3.obj" locked="0" hidden="0"/>
+      <point latitude="59.355749595" longitude="17.944718308" heading="2.79"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="WORK FILES/Source files/Gates/Gate3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_FacadePlacement" id="4559" parent_id="3897">
+      <children>
+        <child id="4558"/>
+      </children>
+      <hierarchy name="fence_MeshHigh_07.fac" locked="0" hidden="0"/>
+      <facade_placement height="10" resource="lib/constructions/fencing/fence_MeshHigh_07.fac" pick_walls="1" show_level="1 Default"/>
+    </object>
+    <object class="WED_FacadeNode" id="4560" parent_id="4558">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.355241894" longitude="17.945048416" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <facade_node wall_type="Wall 1"/>
+    </object>
+    <object class="WED_FacadeNode" id="4561" parent_id="4558">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.355193316" longitude="17.944869850" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <facade_node wall_type="Wall 1"/>
+    </object>
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed">
@@ -26816,7 +26841,6 @@
       <item value="2637"/>
       <item value="2638"/>
       <item value="2640"/>
-      <item value="2642"/>
       <item value="2660"/>
       <item value="3508"/>
       <item value="3713"/>
@@ -26839,17 +26863,17 @@
     </pref>
     <pref name="doc/export_target" value="5"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.946438"/>
+    <pref name="map/east" value="17.950756"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.355250"/>
+    <pref name="map/north" value="59.356811"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.354233"/>
+    <pref name="map/south" value="59.352977"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.943943"/>
+    <pref name="map/west" value="17.941355"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
@@ -26858,7 +26882,7 @@
     <pref name="map_Exclusions_Exclusions" value="111"/>
     <pref name="map_Facades_Height" value="10.000000"/>
     <pref name="map_Facades_Pick Walls" value="1"/>
-    <pref name="map_Facades_Resource" value="lib/airport/Modern_Airports/Terminal_kit/term_bridge_02.fac"/>
+    <pref name="map_Facades_Resource" value="lib/constructions/fencing/fence_MeshHigh_07.fac"/>
     <pref name="map_Forests_Density" value="2.000000"/>
     <pref name="map_Forests_Resource" value="opensceneryx/forests/trees/europe/alpine/broad_leaf.for"/>
     <pref name="map_Helipad_Edge Lights" value="15"/>
@@ -26872,7 +26896,7 @@
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="40"/>
     <pref name="map_Lines_Resource" value="MisterX_Library/Airport/Taxilines/White_Line.lin"/>
-    <pref name="map_Objects_Object" value="SEL/Fordon/Tunga/Insatsbil_Swedavia.obj"/>
+    <pref name="map_Objects_Object" value="WORK FILES/Source files/Gates/Gate3.obj"/>
     <pref name="map_Objects_Show with" value="750"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
     <pref name="map_Polygons_Resource" value="MisterX_Library/Ground_Textures/Markings/White_Stripes.pol"/>
@@ -26925,8 +26949,8 @@
     <pref name="window/height" value="1397"/>
     <pref name="window/main_split" value="329"/>
     <pref name="window/main_split2" value="2123"/>
-    <pref name="window/prev_split" value="736"/>
-    <pref name="window/prop_split" value="510"/>
+    <pref name="window/prev_split" value="756"/>
+    <pref name="window/prop_split" value="530"/>
     <pref name="window/width" value="2496"/>
     <pref name="window/x_loc" value="56"/>
     <pref name="window/y_loc" value="-8"/>
