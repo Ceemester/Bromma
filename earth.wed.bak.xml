@@ -147,7 +147,9 @@
     <object class="WED_Select" id="2" parent_id="1">
       <children/>
       <hierarchy name="selection"/>
-      <selection/>
+      <selection>
+        <sel id="4470"/>
+      </selection>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1970" parent_id="1965">
       <children/>
@@ -26363,7 +26365,7 @@
         <child id="4486"/>
       </children>
       <hierarchy name="White_Line.lin" locked="0" hidden="0"/>
-      <line_placement closed="0" resource="MisterX_Library/Airport/Taxilines/White_Line.lin"/>
+      <line_placement closed="0" resource="opensceneryx/lines/solid_lines/white/6.lin"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4471" parent_id="4470">
       <children/>
@@ -26410,7 +26412,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="4478" parent_id="4470">
       <children/>
       <hierarchy name="Node 8" locked="0" hidden="0"/>
-      <point latitude="59.360342344" longitude="17.939309041" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.360346512" longitude="17.939313130" split="1" ctrl_latitude_lo="-0.000020840" ctrl_longitude_lo="-0.000008178" ctrl_latitude_hi="0.000123476" ctrl_longitude_hi="0.000069515"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4479" parent_id="4470">
       <children/>
@@ -28220,17 +28222,17 @@
     </pref>
     <pref name="doc/export_target" value="5"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.939577"/>
+    <pref name="map/east" value="17.937117"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.360593"/>
+    <pref name="map/north" value="59.360831"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.359566"/>
+    <pref name="map/south" value="59.359804"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.937184"/>
+    <pref name="map/west" value="17.934724"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
@@ -28252,7 +28254,7 @@
     <pref name="map_Hole_Markings" value=""/>
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="40"/>
-    <pref name="map_Lines_Resource" value="opensceneryx/lines/solid_lines/yellow/8.lin"/>
+    <pref name="map_Lines_Resource" value="opensceneryx/lines/solid_lines/white/6.lin"/>
     <pref name="map_Objects_Object" value="objects/Misc buildings/ESSB_mischus_2.obj"/>
     <pref name="map_Objects_Show with" value="750"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
