@@ -130,9 +130,7 @@
     <object class="WED_Select" id="2" parent_id="1">
       <children/>
       <hierarchy name="selection"/>
-      <selection>
-        <sel id="4874"/>
-      </selection>
+      <selection/>
     </object>
     <object class="WED_TextureBezierNode" id="3517" parent_id="3515">
       <children/>
@@ -15427,7 +15425,7 @@
         <child id="4824"/>
       </children>
       <hierarchy name="fence_Mesh_01.fac" locked="0" hidden="0"/>
-      <facade_placement height="10" resource="lib/fence/fence.fac" pick_walls="1" show_level="1 Default"/>
+      <facade_placement height="10" resource="lib/constructions/fencing/fence_Mesh_01.fac" pick_walls="1" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2111" parent_id="2109">
       <children/>
@@ -24422,7 +24420,7 @@
         <child id="4852"/>
       </children>
       <hierarchy name="fence_Mesh_01.fac" locked="0" hidden="0"/>
-      <facade_placement height="10" resource="lib/fence/fence.fac" pick_walls="1" show_level="1 Default"/>
+      <facade_placement height="10" resource="lib/constructions/fencing/fence_Mesh_01.fac" pick_walls="1" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBoundaryNode" id="3962" parent_id="3960">
       <children/>
@@ -25922,7 +25920,7 @@
         <child id="4795"/>
       </children>
       <hierarchy name="fence_Mesh_01.fac" locked="0" hidden="0"/>
-      <facade_placement height="10" resource="lib/fence/fence.fac" pick_walls="1" show_level="1 Default"/>
+      <facade_placement height="10" resource="lib/constructions/fencing/fence_Mesh_01.fac" pick_walls="1" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4365" parent_id="4357">
       <children/>
@@ -26278,7 +26276,7 @@
         <child id="4831"/>
       </children>
       <hierarchy name="fence_Mesh_01.fac" locked="0" hidden="0"/>
-      <facade_placement height="10" resource="lib/constructions/fencing/fence_Mesh_01.fac" pick_walls="1" show_level="1 Default"/>
+      <facade_placement height="10" resource="lib/constructions/fencing/fence_Mesh_01.fac" pick_walls="0" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4465" parent_id="4462">
       <children/>
@@ -26638,7 +26636,7 @@
         <child id="4819"/>
       </children>
       <hierarchy name="fence_Mesh_01.fac" locked="0" hidden="0"/>
-      <facade_placement height="10" resource="lib/fence/fence.fac" pick_walls="1" show_level="1 Default"/>
+      <facade_placement height="10" resource="lib/constructions/fencing/fence_Mesh_01.fac" pick_walls="1" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4517" parent_id="4515">
       <children/>
@@ -27886,7 +27884,7 @@
         <child id="4804"/>
       </children>
       <hierarchy name="fence_Mesh_01.fac" locked="0" hidden="0"/>
-      <facade_placement height="10" resource="lib/fence/fence.fac" pick_walls="1" show_level="1 Default"/>
+      <facade_placement height="10" resource="lib/constructions/fencing/fence_Mesh_01.fac" pick_walls="1" show_level="1 Default"/>
     </object>
     <object class="WED_FacadeNode" id="4806" parent_id="4804">
       <children/>
@@ -27924,7 +27922,7 @@
         <child id="4810"/>
       </children>
       <hierarchy name="fence_Mesh_01.fac" locked="0" hidden="0"/>
-      <facade_placement height="10" resource="lib/fence/fence.fac" pick_walls="1" show_level="1 Default"/>
+      <facade_placement height="10" resource="lib/constructions/fencing/fence_Mesh_01.fac" pick_walls="1" show_level="1 Default"/>
     </object>
     <object class="WED_FacadeNode" id="4813" parent_id="4810">
       <children/>
@@ -28015,7 +28013,7 @@
         <child id="4836"/>
       </children>
       <hierarchy name="fence_Mesh_01.fac" locked="0" hidden="0"/>
-      <facade_placement height="10" resource="lib/fence/fence.fac" pick_walls="1" show_level="1 Default"/>
+      <facade_placement height="10" resource="lib/constructions/fencing/fence_Mesh_01.fac" pick_walls="1" show_level="1 Default"/>
     </object>
     <object class="WED_FacadeNode" id="4838" parent_id="4836">
       <children/>
@@ -28172,7 +28170,7 @@
         <child id="4873"/>
       </children>
       <hierarchy name="fence.fac" locked="0" hidden="0"/>
-      <facade_placement height="10" resource="lib/fence/fence.fac" pick_walls="1" show_level="1 Default"/>
+      <facade_placement height="10" resource="lib/constructions/fencing/fence_Mesh_01.fac" pick_walls="1" show_level="1 Default"/>
     </object>
     <object class="WED_FacadeNode" id="4875" parent_id="4873">
       <children/>
@@ -28264,17 +28262,17 @@
     </pref>
     <pref name="doc/export_target" value="5"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.939194"/>
+    <pref name="map/east" value="17.938166"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.361200"/>
+    <pref name="map/north" value="59.359459"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.359847"/>
+    <pref name="map/south" value="59.358332"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.936044"/>
+    <pref name="map/west" value="17.935541"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
@@ -28283,7 +28281,7 @@
     <pref name="map_Exclusions_Exclusions" value="111"/>
     <pref name="map_Facades_Height" value="10.000000"/>
     <pref name="map_Facades_Pick Walls" value="1"/>
-    <pref name="map_Facades_Resource" value="lib/fence/fence.fac"/>
+    <pref name="map_Facades_Resource" value="lib/constructions/fencing/fence_Mesh_01.fac"/>
     <pref name="map_Forests_Density" value="2.000000"/>
     <pref name="map_Forests_Resource" value="opensceneryx/forests/trees/europe/alpine/broad_leaf.for"/>
     <pref name="map_Helipad_Edge Lights" value="15"/>
