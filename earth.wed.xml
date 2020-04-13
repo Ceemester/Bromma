@@ -130,7 +130,9 @@
     <object class="WED_Select" id="2" parent_id="1">
       <children/>
       <hierarchy name="selection"/>
-      <selection/>
+      <selection>
+        <sel id="4884"/>
+      </selection>
     </object>
     <object class="WED_TextureBezierNode" id="3517" parent_id="3515">
       <children/>
@@ -174,6 +176,7 @@
     </object>
     <object class="WED_Group" id="4" parent_id="1">
       <children>
+        <child id="4884"/>
         <child id="4874"/>
         <child id="4872"/>
         <child id="4871"/>
@@ -28208,6 +28211,12 @@
       <point latitude="59.360603269" longitude="17.938800864" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <facade_node wall_type="Wall 1"/>
     </object>
+    <object class="WED_ObjPlacement" id="4884" parent_id="4">
+      <children/>
+      <hierarchy name="ESSB_SI.obj" locked="0" hidden="0"/>
+      <point latitude="59.360175806" longitude="17.938601173" heading="-74.53"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/Hangarer/ESSB_SI.obj" show_level="1 Default"/>
+    </object>
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed">
@@ -28262,17 +28271,17 @@
     </pref>
     <pref name="doc/export_target" value="5"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.938166"/>
+    <pref name="map/east" value="17.940606"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.359459"/>
+    <pref name="map/north" value="59.360757"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.358332"/>
+    <pref name="map/south" value="59.359013"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.935541"/>
+    <pref name="map/west" value="17.936545"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
@@ -28295,7 +28304,7 @@
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="40"/>
     <pref name="map_Lines_Resource" value="opensceneryx/lines/solid_lines/white/6.lin"/>
-    <pref name="map_Objects_Object" value="objects/Misc buildings/ESSB_mischus_3.obj"/>
+    <pref name="map_Objects_Object" value="objects/Hangarer/ESSB_SI.obj"/>
     <pref name="map_Objects_Show with" value="750"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
     <pref name="map_Polygons_Resource" value="MisterX_Library/Ground_Textures/Grass.pol"/>
@@ -28348,8 +28357,8 @@
     <pref name="window/height" value="997"/>
     <pref name="window/main_split" value="329"/>
     <pref name="window/main_split2" value="1547"/>
-    <pref name="window/prev_split" value="569"/>
-    <pref name="window/prop_split" value="797"/>
+    <pref name="window/prev_split" value="589"/>
+    <pref name="window/prop_split" value="817"/>
     <pref name="window/width" value="1920"/>
     <pref name="window/x_loc" value="-8"/>
     <pref name="window/y_loc" value="-8"/>
