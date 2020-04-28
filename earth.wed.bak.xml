@@ -148,7 +148,7 @@
       <children/>
       <hierarchy name="selection"/>
       <selection>
-        <sel id="3727"/>
+        <sel id="5796"/>
       </selection>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1970" parent_id="1965">
@@ -992,6 +992,7 @@
         <child id="3730"/>
         <child id="4422"/>
         <child id="3728"/>
+        <child id="5796"/>
         <child id="3727"/>
         <child id="3726"/>
         <child id="3722"/>
@@ -23681,7 +23682,7 @@
     <object class="WED_ObjPlacement" id="3728" parent_id="1882">
       <children/>
       <hierarchy name="Coop.obj" locked="0" hidden="0"/>
-      <point latitude="59.356561642" longitude="17.951790539" heading="23.84"/>
+      <point latitude="59.356558170" longitude="17.951788269" heading="23.84"/>
       <obj_placement custom_msl="0" msl="0.0" resource="objects/Stores/Coop.obj" show_level="1 Default"/>
     </object>
     <object class="WED_LinePlacement" id="3425" parent_id="2057">
@@ -30956,6 +30957,12 @@
       <point latitude="59.357177707" longitude="17.947941382" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/street/streetlights/AreaFlood_HighMast.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="5796" parent_id="1882">
+      <children/>
+      <hierarchy name="Bauhaus.obj" locked="0" hidden="0"/>
+      <point latitude="59.351598659" longitude="17.966064029" heading="-39.14"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/Stores/Bauhaus.obj" show_level="1 Default"/>
+    </object>
     <object class="WED_SimpleBoundaryNode" id="5291" parent_id="5282">
       <children/>
       <hierarchy name="Node 8" locked="0" hidden="0"/>
@@ -33154,17 +33161,17 @@
     </pref>
     <pref name="doc/export_target" value="5"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.953278"/>
+    <pref name="map/east" value="17.970089"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.357166"/>
+    <pref name="map/north" value="59.354020"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.355603"/>
+    <pref name="map/south" value="59.349842"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.950649"/>
+    <pref name="map/west" value="17.963063"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
@@ -33187,7 +33194,7 @@
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="40"/>
     <pref name="map_Lines_Resource" value="lib/airport/lines/20_road_edge.lin"/>
-    <pref name="map_Objects_Object" value="lib/airport/Common_Elements/Parking/Yellow_Lines_8-1.obj"/>
+    <pref name="map_Objects_Object" value="objects/Stores/Bauhaus.obj"/>
     <pref name="map_Objects_Show with" value="750"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
     <pref name="map_Polygons_Resource" value="MisterX_Library/Ground_Textures/Damage/Tar_Marks_Heavy.pol"/>
@@ -33240,8 +33247,8 @@
     <pref name="window/height" value="1397"/>
     <pref name="window/main_split" value="512"/>
     <pref name="window/main_split2" value="1775"/>
-    <pref name="window/prev_split" value="840"/>
-    <pref name="window/prop_split" value="629"/>
+    <pref name="window/prev_split" value="860"/>
+    <pref name="window/prop_split" value="649"/>
     <pref name="window/width" value="2496"/>
     <pref name="window/x_loc" value="56"/>
     <pref name="window/y_loc" value="-8"/>
