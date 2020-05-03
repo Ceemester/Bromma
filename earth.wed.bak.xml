@@ -1090,7 +1090,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1743" parent_id="1725">
       <children/>
       <hierarchy name="Node 17" locked="0" hidden="0"/>
-      <point latitude="59.359184200" longitude="17.931416770" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359380020" longitude="17.932393057" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_AirportNode" id="437" parent_id="431">
       <children/>
@@ -1478,7 +1478,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1744" parent_id="1725">
       <children/>
       <hierarchy name="Node 18" locked="0" hidden="0"/>
-      <point latitude="59.359343781" longitude="17.932685088" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359347348" longitude="17.932683338" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_AirportNode" id="55" parent_id="48">
       <children/>
@@ -1671,7 +1671,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1752" parent_id="1746">
       <children/>
       <hierarchy name="Node 6" locked="0" hidden="0"/>
-      <point latitude="59.359601782" longitude="17.930660000" split="0" ctrl_latitude_lo="-0.000155800" ctrl_longitude_lo="0.000067537" ctrl_latitude_hi="0.000155800" ctrl_longitude_hi="-0.000067537"/>
+      <point latitude="59.359609007" longitude="17.930649875" split="0" ctrl_latitude_lo="-0.000153220" ctrl_longitude_lo="0.000049312" ctrl_latitude_hi="0.000153220" ctrl_longitude_hi="-0.000049312"/>
     </object>
     <object class="WED_AirportNode" id="63" parent_id="48">
       <children/>
@@ -1818,8 +1818,18 @@
         <child id="3461"/>
         <child id="3445"/>
         <child id="3409"/>
-        <child id="4321"/>
+        <child id="5935"/>
         <child id="4317"/>
+        <child id="5915"/>
+        <child id="5912"/>
+        <child id="5907"/>
+        <child id="5896"/>
+        <child id="5959"/>
+        <child id="5956"/>
+        <child id="5952"/>
+        <child id="5948"/>
+        <child id="5943"/>
+        <child id="4321"/>
         <child id="4314"/>
         <child id="4310"/>
         <child id="4306"/>
@@ -1829,6 +1839,7 @@
         <child id="4528"/>
         <child id="4525"/>
         <child id="4518"/>
+        <child id="5962"/>
         <child id="4515"/>
         <child id="4301"/>
         <child id="4298"/>
@@ -3170,11 +3181,6 @@
       <hierarchy name="Node 10" locked="0" hidden="0"/>
       <point latitude="59.351813544" longitude="17.947576479" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
-    <object class="WED_SimpleBezierBoundaryNode" id="1310" parent_id="1293">
-      <children/>
-      <hierarchy name="Node 11" locked="0" hidden="0"/>
-      <point latitude="59.358191869" longitude="17.940333837" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
-    </object>
     <object class="WED_AirportNode" id="137" parent_id="48">
       <children/>
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
@@ -3730,6 +3736,7 @@
       <children>
         <child id="4940"/>
         <child id="4923"/>
+        <child id="5996"/>
         <child id="5682"/>
         <child id="5433"/>
         <child id="5000"/>
@@ -3769,6 +3776,7 @@
         <child id="1755"/>
         <child id="2154"/>
         <child id="1726"/>
+        <child id="6016"/>
         <child id="1678"/>
         <child id="1325"/>
         <child id="1319"/>
@@ -3804,7 +3812,7 @@
         <child id="4607"/>
         <child id="4592"/>
       </children>
-      <hierarchy name="Ground new" locked="1" hidden="0"/>
+      <hierarchy name="Ground new" locked="0" hidden="0"/>
     </object>
     <object class="WED_AirportNode" id="300" parent_id="283">
       <children/>
@@ -4373,7 +4381,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1374" parent_id="1363">
       <children/>
       <hierarchy name="Node 11" locked="0" hidden="0"/>
-      <point latitude="59.359821372" longitude="17.931735947" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359823940" longitude="17.931728389" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="3325" parent_id="3314">
       <children/>
@@ -9170,6 +9178,7 @@
         <child id="1372"/>
         <child id="1378"/>
         <child id="1373"/>
+        <child id="6021"/>
         <child id="1374"/>
         <child id="1375"/>
         <child id="1376"/>
@@ -9245,7 +9254,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2088" parent_id="2086">
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
-      <point latitude="59.357042325" longitude="17.935127520" split="0" ctrl_latitude_lo="-0.000022780" ctrl_longitude_lo="-0.000111735" ctrl_latitude_hi="0.000022780" ctrl_longitude_hi="0.000111735"/>
+      <point latitude="59.357036752" longitude="17.935144529" split="0" ctrl_latitude_lo="-0.000016588" ctrl_longitude_lo="-0.000117810" ctrl_latitude_hi="0.000016588" ctrl_longitude_hi="0.000117810"/>
     </object>
     <object class="WED_AirportNode" id="714" parent_id="703">
       <children/>
@@ -9371,7 +9380,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2100" parent_id="2086">
       <children/>
       <hierarchy name="Node 14" locked="0" hidden="0"/>
-      <point latitude="59.359558989" longitude="17.929100250" split="0" ctrl_latitude_lo="0.000152059" ctrl_longitude_lo="0.000298347" ctrl_latitude_hi="-0.000152059" ctrl_longitude_hi="-0.000298347"/>
+      <point latitude="59.359553787" longitude="17.929104624" split="0" ctrl_latitude_lo="0.000152059" ctrl_longitude_lo="0.000298347" ctrl_latitude_hi="-0.000152059" ctrl_longitude_hi="-0.000298347"/>
     </object>
     <object class="WED_AirportNode" id="726" parent_id="703">
       <children/>
@@ -9453,7 +9462,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2099" parent_id="2086">
       <children/>
       <hierarchy name="Node 13" locked="0" hidden="0"/>
-      <point latitude="59.359599994" longitude="17.929814273" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359604453" longitude="17.929788028" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_AirportNode" id="733" parent_id="703">
       <children/>
@@ -10599,11 +10608,6 @@
       <point latitude="59.353591810" longitude="17.944534120" split="0" ctrl_latitude_lo="-0.000010850" ctrl_longitude_lo="0.000058070" ctrl_latitude_hi="0.000010850" ctrl_longitude_hi="-0.000058070"/>
       <markings/>
     </object>
-    <object class="WED_SimpleBezierBoundaryNode" id="1729" parent_id="1725">
-      <children/>
-      <hierarchy name="Node 3" locked="0" hidden="0"/>
-      <point latitude="59.359994962" longitude="17.931468536" split="0" ctrl_latitude_lo="-0.000009492" ctrl_longitude_lo="0.000069839" ctrl_latitude_hi="0.000009492" ctrl_longitude_hi="-0.000069839"/>
-    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="3111" parent_id="2993">
       <children/>
       <hierarchy name="Node 117" locked="0" hidden="0"/>
@@ -10711,7 +10715,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1170" parent_id="1137">
       <children/>
       <hierarchy name="Node 32" locked="0" hidden="0"/>
-      <point latitude="59.358082781" longitude="17.936201927" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.358162251" longitude="17.936006519" split="1" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_AirportNode" id="867" parent_id="866">
       <children/>
@@ -11098,7 +11102,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1131" parent_id="1120">
       <children/>
       <hierarchy name="Node 10" locked="0" hidden="0"/>
-      <point latitude="59.358341344" longitude="17.939379655" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.358444980" longitude="17.939160573" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_AirportSign" id="922" parent_id="12">
       <children/>
@@ -11248,7 +11252,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1753" parent_id="1746">
       <children/>
       <hierarchy name="Node 7" locked="0" hidden="0"/>
-      <point latitude="59.359805228" longitude="17.930955243" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359809356" longitude="17.930953218" split="0" ctrl_latitude_lo="-0.000003096" ctrl_longitude_lo="-0.000042526" ctrl_latitude_hi="0.000003096" ctrl_longitude_hi="0.000042526"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1596" parent_id="1591">
       <children/>
@@ -11961,8 +11965,17 @@
         <child id="1128"/>
         <child id="1347"/>
         <child id="1130"/>
+        <child id="5976"/>
         <child id="1131"/>
+        <child id="5977"/>
+        <child id="5966"/>
+        <child id="5967"/>
+        <child id="5968"/>
+        <child id="5969"/>
+        <child id="5970"/>
         <child id="1312"/>
+        <child id="5972"/>
+        <child id="5973"/>
         <child id="1132"/>
         <child id="1134"/>
         <child id="1135"/>
@@ -12094,8 +12107,8 @@
         <child id="1168"/>
         <child id="1169"/>
         <child id="1170"/>
+        <child id="6025"/>
         <child id="1171"/>
-        <child id="1172"/>
         <child id="1173"/>
         <child id="1174"/>
         <child id="1175"/>
@@ -12321,18 +12334,13 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1171" parent_id="1137">
       <children/>
       <hierarchy name="Node 33" locked="0" hidden="0"/>
-      <point latitude="59.357973986" longitude="17.936290503" split="0" ctrl_latitude_lo="0.000025964" ctrl_longitude_lo="0.0" ctrl_latitude_hi="-0.000025964" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.357952828" longitude="17.936274303" split="1" ctrl_latitude_lo="0.000032075" ctrl_longitude_lo="-0.000001939" ctrl_latitude_hi="-0.000083760" ctrl_longitude_hi="0.000005062"/>
     </object>
     <object class="WED_FacadeNode" id="1893" parent_id="1886">
       <children/>
       <hierarchy name="Node 6" locked="0" hidden="0"/>
       <point latitude="59.357407709" longitude="17.946396692" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <facade_node wall_type="Wall 1"/>
-    </object>
-    <object class="WED_SimpleBezierBoundaryNode" id="1172" parent_id="1137">
-      <children/>
-      <hierarchy name="Node 34" locked="0" hidden="0"/>
-      <point latitude="59.357858808" longitude="17.936249618" split="0" ctrl_latitude_lo="0.000018545" ctrl_longitude_lo="0.000013099" ctrl_latitude_hi="-0.000018545" ctrl_longitude_hi="-0.000013099"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1173" parent_id="1137">
       <children/>
@@ -12949,9 +12957,8 @@
         <child id="1302"/>
         <child id="1303"/>
         <child id="1304"/>
-        <child id="1311"/>
-        <child id="1305"/>
-        <child id="1310"/>
+        <child id="5975"/>
+        <child id="5974"/>
         <child id="1306"/>
         <child id="1307"/>
         <child id="1308"/>
@@ -13006,11 +13013,6 @@
       <point latitude="59.357471626" longitude="17.944114680" heading="255.77"/>
       <obj_placement custom_msl="0" msl="0.0" resource="opensceneryx/objects/aircraft/livery/klm/avro-rj70.obj" show_level="1 Default"/>
     </object>
-    <object class="WED_SimpleBezierBoundaryNode" id="1305" parent_id="1293">
-      <children/>
-      <hierarchy name="Node 11" locked="0" hidden="0"/>
-      <point latitude="59.358293996" longitude="17.940286880" split="0" ctrl_latitude_lo="0.000037091" ctrl_longitude_lo="-0.000040753" ctrl_latitude_hi="-0.000037091" ctrl_longitude_hi="0.000040753"/>
-    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1306" parent_id="1293">
       <children/>
       <hierarchy name="Node 12" locked="0" hidden="0"/>
@@ -13026,15 +13028,10 @@
       <hierarchy name="Node 15" locked="0" hidden="0"/>
       <point latitude="59.357785594" longitude="17.939430199" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
-    <object class="WED_SimpleBezierBoundaryNode" id="1311" parent_id="1293">
-      <children/>
-      <hierarchy name="Node 10" locked="0" hidden="0"/>
-      <point latitude="59.358351450" longitude="17.940060196" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
-    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1312" parent_id="1120">
       <children/>
       <hierarchy name="Node 10" locked="0" hidden="0"/>
-      <point latitude="59.358351450" longitude="17.940060196" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.358154382" longitude="17.940196662" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_Ring" id="1313" parent_id="1314">
       <children>
@@ -13330,12 +13327,12 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1373" parent_id="1363">
       <children/>
       <hierarchy name="Node 10" locked="0" hidden="0"/>
-      <point latitude="59.356552697" longitude="17.940923134" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.356546277" longitude="17.940910537" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1740" parent_id="1725">
       <children/>
       <hierarchy name="Node 14" locked="0" hidden="0"/>
-      <point latitude="59.359346127" longitude="17.930440745" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359343898" longitude="17.930449493" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1376" parent_id="1363">
       <children/>
@@ -13595,7 +13592,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2146" parent_id="2145">
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
-      <point latitude="59.359801930" longitude="17.930826706" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359805542" longitude="17.930830756" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_LinePlacement" id="1437" parent_id="1521">
       <children>
@@ -13621,7 +13618,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1748" parent_id="1746">
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
-      <point latitude="59.359665660" longitude="17.931835426" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359661532" longitude="17.931832388" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1593" parent_id="1591">
       <children/>
@@ -14463,7 +14460,6 @@
       <children>
         <child id="1727"/>
         <child id="1728"/>
-        <child id="1729"/>
         <child id="2180"/>
         <child id="1730"/>
         <child id="1731"/>
@@ -14520,12 +14516,12 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2089" parent_id="2086">
       <children/>
       <hierarchy name="Node 3" locked="0" hidden="0"/>
-      <point latitude="59.357086747" longitude="17.935295122" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.357078697" longitude="17.935285402" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1739" parent_id="1725">
       <children/>
       <hierarchy name="Node 13" locked="0" hidden="0"/>
-      <point latitude="59.359606141" longitude="17.929723909" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359601682" longitude="17.929712245" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2904" parent_id="2841">
       <children/>
@@ -14545,12 +14541,12 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1741" parent_id="1725">
       <children/>
       <hierarchy name="Node 15" locked="0" hidden="0"/>
-      <point latitude="59.359243346" longitude="17.930796299" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359238887" longitude="17.930841497" split="0" ctrl_latitude_lo="0.000014862" ctrl_longitude_lo="-0.000135595" ctrl_latitude_hi="-0.000014862" ctrl_longitude_hi="0.000135595"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1742" parent_id="1725">
       <children/>
       <hierarchy name="Node 16" locked="0" hidden="0"/>
-      <point latitude="59.359243705" longitude="17.931146124" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359242219" longitude="17.931176742" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1747" parent_id="1746">
       <children/>
@@ -14560,7 +14556,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1749" parent_id="1746">
       <children/>
       <hierarchy name="Node 3" locked="0" hidden="0"/>
-      <point latitude="59.359592833" longitude="17.931892939" split="0" ctrl_latitude_lo="0.000052537" ctrl_longitude_lo="0.000014218" ctrl_latitude_hi="-0.000052537" ctrl_longitude_hi="-0.000014218"/>
+      <point latitude="59.359588017" longitude="17.931882645" split="0" ctrl_latitude_lo="0.000052537" ctrl_longitude_lo="0.000014218" ctrl_latitude_hi="-0.000052537" ctrl_longitude_hi="-0.000014218"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="3124" parent_id="2993">
       <children/>
@@ -15490,7 +15486,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2060" parent_id="2058">
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
-      <point latitude="59.356913250" longitude="17.935535544" split="0" ctrl_latitude_lo="-0.000084003" ctrl_longitude_lo="-0.000013967" ctrl_latitude_hi="0.000084003" ctrl_longitude_hi="0.000013967"/>
+      <point latitude="59.356909122" longitude="17.935545668" split="0" ctrl_latitude_lo="-0.000084003" ctrl_longitude_lo="-0.000013967" ctrl_latitude_hi="0.000084003" ctrl_longitude_hi="0.000013967"/>
     </object>
     <object class="WED_TextureBezierNode" id="3519" parent_id="3515">
       <children/>
@@ -15721,7 +15717,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2091" parent_id="2086">
       <children/>
       <hierarchy name="Node 5" locked="0" hidden="0"/>
-      <point latitude="59.357971765" longitude="17.936310789" split="0" ctrl_latitude_lo="-0.000055369" ctrl_longitude_lo="0.000011639" ctrl_latitude_hi="0.000055369" ctrl_longitude_hi="-0.000011639"/>
+      <point latitude="59.357974345" longitude="17.936311801" split="0" ctrl_latitude_lo="-0.000070334" ctrl_longitude_lo="0.000017714" ctrl_latitude_hi="0.000070334" ctrl_longitude_hi="-0.000017714"/>
     </object>
     <object class="WED_FacadeRing" id="3930" parent_id="3931">
       <children>
@@ -16083,7 +16079,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2137" parent_id="2135">
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
-      <point latitude="59.359706807" longitude="17.930290376" split="0" ctrl_latitude_lo="0.000134468" ctrl_longitude_lo="0.000032980" ctrl_latitude_hi="-0.000134468" ctrl_longitude_hi="-0.000032980"/>
+      <point latitude="59.359695215" longitude="17.930283377" split="0" ctrl_latitude_lo="0.000134468" ctrl_longitude_lo="0.000032980" ctrl_latitude_hi="-0.000134468" ctrl_longitude_hi="-0.000032980"/>
     </object>
     <object class="WED_ObjPlacement" id="5589" parent_id="3965">
       <children/>
@@ -16094,7 +16090,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2138" parent_id="2135">
       <children/>
       <hierarchy name="Node 3" locked="0" hidden="0"/>
-      <point latitude="59.359511433" longitude="17.930375269" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359490924" longitude="17.930420759" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_ObjPlacement" id="3883" parent_id="2239">
       <children/>
@@ -16110,7 +16106,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2140" parent_id="2135">
       <children/>
       <hierarchy name="Node 5" locked="0" hidden="0"/>
-      <point latitude="59.359335202" longitude="17.930924979" split="0" ctrl_latitude_lo="0.000004944" ctrl_longitude_lo="-0.000052380" ctrl_latitude_hi="-0.000004944" ctrl_longitude_hi="0.000052380"/>
+      <point latitude="59.359338298" longitude="17.930929839" split="0" ctrl_latitude_lo="0.000005573" ctrl_longitude_lo="-0.000114212" ctrl_latitude_hi="-0.000005573" ctrl_longitude_hi="0.000114212"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="3535" parent_id="3533">
       <children/>
@@ -16138,12 +16134,12 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2143" parent_id="2135">
       <children/>
       <hierarchy name="Node 8" locked="0" hidden="0"/>
-      <point latitude="59.359476274" longitude="17.932500702" split="0" ctrl_latitude_lo="0.000007910" ctrl_longitude_lo="-0.000085359" ctrl_latitude_hi="-0.000007910" ctrl_longitude_hi="0.000085359"/>
+      <point latitude="59.359476274" longitude="17.932500702" split="0" ctrl_latitude_lo="0.000011625" ctrl_longitude_lo="-0.000150970" ctrl_latitude_hi="-0.000011625" ctrl_longitude_hi="0.000150970"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2144" parent_id="2135">
       <children/>
       <hierarchy name="Node 9" locked="0" hidden="0"/>
-      <point latitude="59.359415487" longitude="17.932884971" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.359407840" longitude="17.932870385" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2960" parent_id="2841">
       <children/>
@@ -16198,7 +16194,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2150" parent_id="2145">
       <children/>
       <hierarchy name="Node 5" locked="0" hidden="0"/>
-      <point latitude="59.359590863" longitude="17.931913644" split="0" ctrl_latitude_lo="-0.000066739" ctrl_longitude_lo="-0.000008083" ctrl_latitude_hi="0.000066739" ctrl_longitude_hi="0.000008083"/>
+      <point latitude="59.359589143" longitude="17.931910775" split="0" ctrl_latitude_lo="-0.000063643" ctrl_longitude_lo="-0.000008083" ctrl_latitude_hi="0.000063643" ctrl_longitude_hi="0.000008083"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2968" parent_id="2841">
       <children/>
@@ -16208,7 +16204,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2153" parent_id="2145">
       <children/>
       <hierarchy name="Node 8" locked="0" hidden="0"/>
-      <point latitude="59.359824854" longitude="17.931197003" split="0" ctrl_latitude_lo="-0.000012961" ctrl_longitude_lo="0.000225978" ctrl_latitude_hi="0.000012961" ctrl_longitude_hi="-0.000225978"/>
+      <point latitude="59.359825886" longitude="17.931198016" split="0" ctrl_latitude_lo="-0.000012961" ctrl_longitude_lo="0.000225978" ctrl_latitude_hi="0.000012961" ctrl_longitude_hi="-0.000225978"/>
     </object>
     <object class="WED_LinePlacement" id="2154" parent_id="1119">
       <children>
@@ -16315,7 +16311,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2163" parent_id="2154">
       <children/>
       <hierarchy name="Node 9" locked="0" hidden="0"/>
-      <point latitude="59.360004830" longitude="17.931202331" split="0" ctrl_latitude_lo="0.000004746" ctrl_longitude_lo="-0.000195550" ctrl_latitude_hi="-0.000004746" ctrl_longitude_hi="0.000195550"/>
+      <point latitude="59.360002601" longitude="17.931248988" split="0" ctrl_latitude_lo="0.000004746" ctrl_longitude_lo="-0.000237833" ctrl_latitude_hi="-0.000004746" ctrl_longitude_hi="0.000237833"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2164" parent_id="2154">
       <children/>
@@ -16340,7 +16336,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2166" parent_id="2154">
       <children/>
       <hierarchy name="Node 12" locked="0" hidden="0"/>
-      <point latitude="59.357733432" longitude="17.937833283" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.357733432" longitude="17.937837333" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="3553" parent_id="3546">
       <children/>
@@ -16450,7 +16446,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2179" parent_id="2154">
       <children/>
       <hierarchy name="Node 25" locked="0" hidden="0"/>
-      <point latitude="59.358479089" longitude="17.936487208" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.358480947" longitude="17.936493283" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2837" parent_id="2775">
       <children/>
@@ -16460,7 +16456,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="2180" parent_id="1725">
       <children/>
       <hierarchy name="Node 3" locked="0" hidden="0"/>
-      <point latitude="59.360019245" longitude="17.931178740" split="0" ctrl_latitude_lo="-0.000002373" ctrl_longitude_lo="0.000097775" ctrl_latitude_hi="0.000002373" ctrl_longitude_hi="-0.000097775"/>
+      <point latitude="59.360013300" longitude="17.931355162" split="0" ctrl_latitude_lo="-0.000009804" ctrl_longitude_lo="0.000180883" ctrl_latitude_hi="0.000009804" ctrl_longitude_hi="-0.000180883"/>
     </object>
     <object class="WED_Ring" id="3348" parent_id="3349">
       <children>
@@ -16790,6 +16786,11 @@
       <hierarchy name="Tree_04_6m.obj" locked="0" hidden="0"/>
       <point latitude="59.355277525" longitude="17.947100544" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="FlyAgi_Vegetation/Trees/Tree_04_6m.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5951" parent_id="5948">
+      <children/>
+      <hierarchy name="Node 3" locked="0" hidden="0"/>
+      <point latitude="59.359666156" longitude="17.927236135" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_ObjPlacement" id="2222" parent_id="5205">
       <children/>
@@ -17271,6 +17272,12 @@
       <hierarchy name="Node 3" locked="0" hidden="0"/>
       <point latitude="59.356909705" longitude="17.940236887" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_AirportSign" id="5983" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}Y{@Y}Y3" locked="0" hidden="0"/>
+      <point latitude="59.358664525" longitude="17.935674840" heading="306.38"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
     <object class="WED_ObjPlacement" id="2254" parent_id="2239">
       <children/>
       <hierarchy name="Parking_Space_10.obj" locked="0" hidden="0"/>
@@ -17537,6 +17544,18 @@
       <markings>
         <marking value="Double Solid Yellow"/>
       </markings>
+    </object>
+    <object class="WED_Ring" id="6015" parent_id="6016">
+      <children>
+        <child id="6017"/>
+        <child id="6023"/>
+        <child id="6022"/>
+        <child id="6018"/>
+        <child id="6019"/>
+        <child id="6020"/>
+        <child id="6024"/>
+      </children>
+      <hierarchy name="Polygon 12 Outer Ring" locked="0" hidden="0"/>
     </object>
     <object class="WED_AirportNode" id="2286" parent_id="2282">
       <children/>
@@ -19121,6 +19140,11 @@
         <marking value="Red Line Dash"/>
       </markings>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5921" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 6" locked="0" hidden="0"/>
+      <point latitude="59.358495047" longitude="17.937674303" split="0" ctrl_latitude_lo="0.000006271" ctrl_longitude_lo="0.000001172" ctrl_latitude_hi="-0.000006271" ctrl_longitude_hi="-0.000001172"/>
+    </object>
     <object class="WED_SimpleBoundaryNode" id="5200" parent_id="5193">
       <children/>
       <hierarchy name="Node 6" locked="0" hidden="0"/>
@@ -19645,6 +19669,11 @@
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
       <point latitude="59.353549909" longitude="17.949995149" split="0" ctrl_latitude_lo="0.000014511" ctrl_longitude_lo="0.000005442" ctrl_latitude_hi="-0.000014511" ctrl_longitude_hi="-0.000005442"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="6019" parent_id="6015">
+      <children/>
+      <hierarchy name="Node 3" locked="0" hidden="0"/>
+      <point latitude="59.358753640" longitude="17.934353336" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2576" parent_id="2573">
       <children/>
@@ -20259,6 +20288,11 @@
       <point latitude="59.355835169" longitude="17.944515282" heading="309.70"/>
       <obj_placement custom_msl="0" msl="0.0" resource="SEL/Fordon/Tunga/Insatsbil_yel.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5904" parent_id="5896">
+      <children/>
+      <hierarchy name="Node 8" locked="0" hidden="0"/>
+      <point latitude="59.358475841" longitude="17.937534703" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_ObjPlacement" id="2691" parent_id="1481">
       <children/>
       <hierarchy name="Volvo_A20_Dumper.obj" locked="0" hidden="0"/>
@@ -20336,6 +20370,11 @@
       <point latitude="59.352480783" longitude="17.954531727" heading="88.40"/>
       <ramp_start type="Misc" traffic="24" width="A" ramp_op_type="None" airlines=""/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5914" parent_id="5912">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.359274410" longitude="17.937215201" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_RampPosition" id="2709" parent_id="10">
       <children/>
       <hierarchy name="East Fuel" locked="0" hidden="0"/>
@@ -20378,6 +20417,11 @@
         <child id="2759"/>
       </children>
       <hierarchy name="Facade 5 outer ring" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5946" parent_id="5943">
+      <children/>
+      <hierarchy name="Node 3" locked="0" hidden="0"/>
+      <point latitude="59.359206629" longitude="17.928198628" split="0" ctrl_latitude_lo="0.000023185" ctrl_longitude_lo="-0.000006998" ctrl_latitude_hi="-0.000023185" ctrl_longitude_hi="0.000006998"/>
     </object>
     <object class="WED_FacadeNode" id="2741" parent_id="2739">
       <children/>
@@ -20444,6 +20488,11 @@
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.356954990" longitude="17.940088163" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5968" parent_id="1120">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.357949134" longitude="17.939594190" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="5153" parent_id="5135">
       <children/>
@@ -20559,6 +20608,12 @@
       <hierarchy name="Pickup_White.obj" locked="0" hidden="0"/>
       <point latitude="59.352180425" longitude="17.955049134" heading="-54.78"/>
       <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Vehicles/Trucks/Pickup_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_AirportSign" id="5978" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}Y1{@Y}Y2{^ru,@@}12{@L}Y1" locked="0" hidden="0"/>
+      <point latitude="59.359922294" longitude="17.929331065" heading="261.06"/>
+      <airport_sign style="Default" size="Large Taxiway"/>
     </object>
     <object class="WED_ObjPlacement" id="2773" parent_id="4428">
       <children/>
@@ -20691,6 +20746,12 @@
       <children/>
       <hierarchy name="Node 18" locked="0" hidden="0"/>
       <point latitude="59.349982736" longitude="17.954633355" split="1" ctrl_latitude_lo="-0.000054122" ctrl_longitude_lo="0.000219779" ctrl_latitude_hi="0.000005697" ctrl_longitude_hi="-0.000013038"/>
+    </object>
+    <object class="WED_AirportSign" id="6000" parent_id="5996">
+      <children/>
+      <hierarchy name="{@Y,^l}T{@L}Y" locked="0" hidden="0"/>
+      <point latitude="59.357753459" longitude="17.938086004" heading="302.58"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2787" parent_id="2775">
       <children/>
@@ -24181,6 +24242,11 @@
       <point latitude="59.351452408" longitude="17.946237900" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <texture_node s="0.0" t="1.0000" sc_lo="0.0" tc_lo="0.0" sc_hi="0.0" tc_hi="0.0"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5932" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 17" locked="0" hidden="0"/>
+      <point latitude="59.359849231" longitude="17.937298942" split="0" ctrl_latitude_lo="-0.000101556" ctrl_longitude_lo="-0.000066827" ctrl_latitude_hi="0.000101556" ctrl_longitude_hi="0.000066827"/>
+    </object>
     <object class="WED_LinePlacement" id="4703" parent_id="1521">
       <children>
         <child id="4704"/>
@@ -24193,6 +24259,11 @@
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
       <point latitude="59.351496448" longitude="17.946186670" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5936" parent_id="5935">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359721671" longitude="17.929401559" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_LinePlacement" id="3538" parent_id="1521">
       <children>
@@ -24211,6 +24282,11 @@
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.351393205" longitude="17.946376633" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5931" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 16" locked="0" hidden="0"/>
+      <point latitude="59.359685750" longitude="17.937339767" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4186" parent_id="4179">
       <children/>
@@ -25238,6 +25314,11 @@
       <point latitude="59.357607101" longitude="17.942867301" heading="273.30"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/Common_Elements/Barriers/concrete/grey_1_5m.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="6018" parent_id="6015">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.358707271" longitude="17.934081694" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_ObjPlacement" id="4115" parent_id="4093">
       <children/>
       <hierarchy name="grey_1_5m.obj" locked="0" hidden="0"/>
@@ -25338,6 +25419,11 @@
       <hierarchy name="Thin_Red_White.obj" locked="0" hidden="0"/>
       <point latitude="59.357323625" longitude="17.943745735" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/airport/Common_Elements/Markers/Poles/Thin_Red_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5970" parent_id="1120">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.358130401" longitude="17.940096818" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_ObjPlacement" id="4131" parent_id="4089">
       <children/>
@@ -25611,6 +25697,11 @@
       <children/>
       <hierarchy name="Node 8" locked="0" hidden="0"/>
       <point latitude="59.356901018" longitude="17.942014315" split="0" ctrl_latitude_lo="0.000032917" ctrl_longitude_lo="-0.000018123" ctrl_latitude_hi="-0.000032917" ctrl_longitude_hi="0.000018123"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5923" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 8" locked="0" hidden="0"/>
+      <point latitude="59.358299366" longitude="17.937889354" split="0" ctrl_latitude_lo="0.000014862" ctrl_longitude_lo="-0.000010935" ctrl_latitude_hi="-0.000014862" ctrl_longitude_hi="0.000010935"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4178" parent_id="1460">
       <children/>
@@ -26058,6 +26149,16 @@
       <hierarchy name="Node 4" locked="0" hidden="0"/>
       <point latitude="59.357784565" longitude="17.941755102" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_LinePlacement" id="5907" parent_id="1521">
+      <children>
+        <child id="5908"/>
+        <child id="5909"/>
+        <child id="5910"/>
+        <child id="5911"/>
+      </children>
+      <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
+      <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
+    </object>
     <object class="WED_PolygonPlacement" id="4226" parent_id="1119">
       <children>
         <child id="4227"/>
@@ -26094,8 +26195,12 @@
     <object class="WED_ForestRing" id="4889" parent_id="4890">
       <children>
         <child id="4891"/>
+        <child id="6009"/>
+        <child id="6010"/>
         <child id="4892"/>
         <child id="4893"/>
+        <child id="6012"/>
+        <child id="6011"/>
         <child id="4894"/>
       </children>
       <hierarchy name="Forest 1 outer ring" locked="0" hidden="0"/>
@@ -26122,6 +26227,31 @@
       </children>
       <hierarchy name="Polygon 14 Outer Ring" locked="0" hidden="0"/>
     </object>
+    <object class="WED_LinePlacement" id="5915" parent_id="1521">
+      <children>
+        <child id="5916"/>
+        <child id="5917"/>
+        <child id="5918"/>
+        <child id="5919"/>
+        <child id="5920"/>
+        <child id="5921"/>
+        <child id="5922"/>
+        <child id="5923"/>
+        <child id="5924"/>
+        <child id="5925"/>
+        <child id="5926"/>
+        <child id="5927"/>
+        <child id="5928"/>
+        <child id="5929"/>
+        <child id="5930"/>
+        <child id="5931"/>
+        <child id="5932"/>
+        <child id="5933"/>
+        <child id="5934"/>
+      </children>
+      <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
+      <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4234" parent_id="4233">
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
@@ -26135,7 +26265,7 @@
     <object class="WED_SimpleBoundaryNode" id="4893" parent_id="4889">
       <children/>
       <hierarchy name="Node 3" locked="0" hidden="0"/>
-      <point latitude="59.357188618" longitude="17.941061601"/>
+      <point latitude="59.357060212" longitude="17.941069159"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4236" parent_id="4233">
       <children/>
@@ -26176,6 +26306,11 @@
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.355869750" longitude="17.944376064" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="5987" parent_id="4941">
+      <children/>
+      <hierarchy name="Node 15" locked="0" hidden="0"/>
+      <point latitude="59.359548477" longitude="17.929724999"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4242" parent_id="4239">
       <children/>
@@ -26250,6 +26385,11 @@
         <child id="4261"/>
       </children>
       <hierarchy name="Polygon 14 Outer Ring" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5939" parent_id="5935">
+      <children/>
+      <hierarchy name="Node 4" locked="0" hidden="0"/>
+      <point latitude="59.359418196" longitude="17.928459566" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4258" parent_id="4257">
       <children/>
@@ -26342,6 +26482,11 @@
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.355320077" longitude="17.944042569" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5947" parent_id="5943">
+      <children/>
+      <hierarchy name="Node 4" locked="0" hidden="0"/>
+      <point latitude="59.359172412" longitude="17.928231138" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4266" parent_id="4263">
       <children/>
       <hierarchy name="Node 3" locked="0" hidden="0"/>
@@ -26388,7 +26533,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="5436" parent_id="5432">
       <children/>
       <hierarchy name="Node 3" locked="0" hidden="0"/>
-      <point latitude="59.357074691" longitude="17.935140111" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.357072111" longitude="17.935133024" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4271" parent_id="4269">
       <children/>
@@ -26489,6 +26634,11 @@
       <children/>
       <hierarchy name="Node 53" locked="0" hidden="0"/>
       <point latitude="59.355808144" longitude="17.944048566" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5899" parent_id="5896">
+      <children/>
+      <hierarchy name="Node 3" locked="0" hidden="0"/>
+      <point latitude="59.357700594" longitude="17.938992972" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4282" parent_id="1196">
       <children/>
@@ -26629,6 +26779,12 @@
       <hierarchy name="Node 1" locked="0" hidden="0"/>
       <point latitude="59.355810145" longitude="17.944298640" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_AirportSign" id="5979" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}Y1{@Y}12" locked="0" hidden="0"/>
+      <point latitude="59.359533904" longitude="17.929543938" heading="82.87"/>
+      <airport_sign style="Default" size="Large Taxiway"/>
+    </object>
     <object class="WED_LinePlacement" id="4298" parent_id="1521">
       <children>
         <child id="4299"/>
@@ -26645,7 +26801,7 @@
     <object class="WED_SimpleBoundaryNode" id="4957" parent_id="4941">
       <children/>
       <hierarchy name="Node 15" locked="0" hidden="0"/>
-      <point latitude="59.359095000" longitude="17.931326574"/>
+      <point latitude="59.359081687" longitude="17.931209032"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4300" parent_id="4298">
       <children/>
@@ -26839,6 +26995,12 @@
       <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
       <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
     </object>
+    <object class="WED_AirportSign" id="6003" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}T" locked="0" hidden="0"/>
+      <point latitude="59.357461309" longitude="17.939192458" heading="85.60"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4322" parent_id="4321">
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
@@ -26897,6 +27059,11 @@
       </children>
       <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
       <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="6011" parent_id="4889">
+      <children/>
+      <hierarchy name="Node 3" locked="0" hidden="0"/>
+      <point latitude="59.357275761" longitude="17.940973801"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4330" parent_id="4329">
       <children/>
@@ -26958,6 +27125,11 @@
       <hierarchy name="Node 4" locked="0" hidden="0"/>
       <point latitude="59.355925312" longitude="17.942407560" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5955" parent_id="5952">
+      <children/>
+      <hierarchy name="Node 3" locked="0" hidden="0"/>
+      <point latitude="59.359684646" longitude="17.927614046" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4338" parent_id="1137">
       <children/>
       <hierarchy name="Node 46" locked="0" hidden="0"/>
@@ -27014,6 +27186,11 @@
       <hierarchy name="Node 3" locked="0" hidden="0"/>
       <point latitude="59.355298648" longitude="17.943759599" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5963" parent_id="5962">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.357003888" longitude="17.941357417" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4346" parent_id="4342">
       <children/>
       <hierarchy name="Node 4" locked="0" hidden="0"/>
@@ -27045,7 +27222,10 @@
         <child id="4955"/>
         <child id="4956"/>
         <child id="4957"/>
+        <child id="5987"/>
+        <child id="5986"/>
         <child id="4958"/>
+        <child id="5985"/>
       </children>
       <hierarchy name="Forest 4 outer ring" locked="0" hidden="0"/>
     </object>
@@ -27386,6 +27566,7 @@
     </object>
     <object class="WED_Group" id="4426" parent_id="5">
       <children>
+        <child id="5895"/>
         <child id="4425"/>
         <child id="4424"/>
         <child id="5885"/>
@@ -28411,6 +28592,11 @@
       <point latitude="59.358069058" longitude="17.946206919" heading="-65.94"/>
       <obj_placement custom_msl="0" msl="0.0" resource="FF-XP-Library/DIVERSE/FF-Insatsbil.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5926" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 11" locked="0" hidden="0"/>
+      <point latitude="59.357940204" longitude="17.938586751" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4689" parent_id="4687">
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
@@ -28471,6 +28657,11 @@
       <point latitude="59.359754763" longitude="17.943501486" heading="-20.77"/>
       <obj_placement custom_msl="0" msl="0.0" resource="SEL/Fordon/Tunga/Plogbil.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5925" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.358153844" longitude="17.938002348" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_SimpleBoundaryNode" id="5204" parent_id="5193">
       <children/>
       <hierarchy name="Node 10" locked="0" hidden="0"/>
@@ -28481,6 +28672,11 @@
       <hierarchy name="Plogbil.obj" locked="0" hidden="0"/>
       <point latitude="59.359995469" longitude="17.943339803" heading="-20.77"/>
       <obj_placement custom_msl="0" msl="0.0" resource="SEL/Fordon/Tunga/Plogbil.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5934" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 19" locked="0" hidden="0"/>
+      <point latitude="59.360280546" longitude="17.937647405" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4697" parent_id="4687">
       <children/>
@@ -28528,6 +28724,11 @@
       <point latitude="59.355749595" longitude="17.944718308" heading="2.79"/>
       <obj_placement custom_msl="0" msl="0.0" resource="objects/Gates/Gate3.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5933" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 18" locked="0" hidden="0"/>
+      <point latitude="59.360046151" longitude="17.937491402" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_SimpleBoundaryNode" id="5212" parent_id="5206">
       <children/>
       <hierarchy name="Node 5" locked="0" hidden="0"/>
@@ -28539,6 +28740,11 @@
       </children>
       <hierarchy name="fence_MeshHigh_07.fac" locked="0" hidden="0"/>
       <facade_placement height="10" resource="lib/constructions/fencing/fence_MeshHigh_07.fac" pick_walls="1" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5942" parent_id="5935">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.359620610" longitude="17.928822921" split="0" ctrl_latitude_lo="0.000016943" ctrl_longitude_lo="0.000054238" ctrl_latitude_hi="-0.000016943" ctrl_longitude_hi="-0.000054238"/>
     </object>
     <object class="WED_FacadeNode" id="4560" parent_id="4558">
       <children/>
@@ -28573,6 +28779,11 @@
       <point latitude="59.354342234" longitude="17.946215979" heading="35.58"/>
       <obj_placement custom_msl="0" msl="0.0" resource="objects/Misc buildings/Bring.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5941" parent_id="5935">
+      <children/>
+      <hierarchy name="Node 6" locked="0" hidden="0"/>
+      <point latitude="59.359072961" longitude="17.928506665" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_SimpleBoundaryNode" id="5284" parent_id="5282">
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
@@ -28583,6 +28794,11 @@
       <hierarchy name="ESSB_equipmentroof_3.obj" locked="0" hidden="0"/>
       <point latitude="59.360521466" longitude="17.936618695" heading="-108.68"/>
       <obj_placement custom_msl="0" msl="0.0" resource="objects/Misc buildings/ESSB_equipmentroof_3.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5950" parent_id="5948">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.359492036" longitude="17.927302648" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_ObjPlacement" id="4568" parent_id="1481">
       <children/>
@@ -28613,6 +28829,11 @@
       <hierarchy name="Fuel_Tank_Horiz.obj" locked="0" hidden="0"/>
       <point latitude="59.360692076" longitude="17.936207872" heading="-19.41"/>
       <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Fuel/Fuel_Tank_Horiz.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5949" parent_id="5948">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359455055" longitude="17.926948923" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBoundaryNode" id="5292" parent_id="5282">
       <children/>
@@ -29017,10 +29238,20 @@
       <hierarchy name="Node 8" locked="0" hidden="0"/>
       <point latitude="59.358713280" longitude="17.936985763" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="6023" parent_id="6015">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359191282" longitude="17.931441852" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4628" parent_id="4618">
       <children/>
       <hierarchy name="Node 9" locked="0" hidden="0"/>
       <point latitude="59.358682446" longitude="17.937021636" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="6017" parent_id="6015">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359242219" longitude="17.931176742" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4630" parent_id="4618">
       <children/>
@@ -29053,6 +29284,11 @@
       <hierarchy name="Node 17" locked="0" hidden="0"/>
       <point latitude="59.358032047" longitude="17.937481568" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="6025" parent_id="1137">
+      <children/>
+      <hierarchy name="Node 32" locked="0" hidden="0"/>
+      <point latitude="59.358062205" longitude="17.936211697" split="1" ctrl_latitude_lo="0.000056326" ctrl_longitude_lo="-0.000077804" ctrl_latitude_hi="-0.000034954" ctrl_longitude_hi="0.000048283"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4638" parent_id="4618">
       <children/>
       <hierarchy name="Node 19" locked="0" hidden="0"/>
@@ -29079,12 +29315,22 @@
       </children>
       <hierarchy name="Polygon 4 Outer Ring" locked="0" hidden="0"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5975" parent_id="1293">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.358306823" longitude="17.940364467" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_PolygonPlacement" id="4644" parent_id="1119">
       <children>
         <child id="4643"/>
       </children>
       <hierarchy name="Asphalt_2_Base.pol" locked="0" hidden="0"/>
       <polygon_placement heading="56.0" resource="MisterX_Library/Ground_Textures/Asphalt_2_Black.pol"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5969" parent_id="1120">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.357941355" longitude="17.940079104" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_ObjPlacement" id="5312" parent_id="2233">
       <children/>
@@ -29127,6 +29373,11 @@
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
       <point latitude="59.360076372" longitude="17.935879216" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5977" parent_id="1120">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.358377032" longitude="17.939158726" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_ObjPlacement" id="5320" parent_id="2233">
       <children/>
@@ -29355,6 +29606,11 @@
       <hierarchy name="Node 6" locked="0" hidden="0"/>
       <point latitude="59.358387924" longitude="17.938814103" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5924" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 9" locked="0" hidden="0"/>
+      <point latitude="59.358217007" longitude="17.937923374" split="0" ctrl_latitude_lo="0.000025389" ctrl_longitude_lo="-0.000012150" ctrl_latitude_hi="-0.000025389" ctrl_longitude_hi="0.000012150"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4695" parent_id="4687">
       <children/>
       <hierarchy name="Node 7" locked="0" hidden="0"/>
@@ -29541,6 +29797,11 @@
       <point latitude="59.360574980" longitude="17.937638970" heading="-18.22"/>
       <obj_placement custom_msl="0" msl="0.0" resource="objects/Ramp objects/ESSB_net1.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5910" parent_id="5907">
+      <children/>
+      <hierarchy name="Node 3" locked="0" hidden="0"/>
+      <point latitude="59.359065124" longitude="17.937507594" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_ObjPlacement" id="4737" parent_id="3713">
       <children/>
       <hierarchy name="ESSB_net1.obj" locked="0" hidden="0"/>
@@ -29583,6 +29844,11 @@
       <point latitude="59.360522764" longitude="17.938146014" heading="15.03"/>
       <obj_placement custom_msl="0" msl="0.0" resource="objects/Ramp objects/ESSB_net2.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5908" parent_id="5907">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359192247" longitude="17.937074256" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_ObjPlacement" id="4743" parent_id="3713">
       <children/>
       <hierarchy name="ESSB_net2.obj" locked="0" hidden="0"/>
@@ -29594,6 +29860,11 @@
       <hierarchy name="ESSB_net2.obj" locked="0" hidden="0"/>
       <point latitude="59.360576733" longitude="17.937736654" heading="10.55"/>
       <obj_placement custom_msl="0" msl="0.0" resource="objects/Ramp objects/ESSB_net2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5918" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 3" locked="0" hidden="0"/>
+      <point latitude="59.358915641" longitude="17.937530743" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_ObjPlacement" id="4745" parent_id="3713">
       <children/>
@@ -29624,6 +29895,15 @@
       <hierarchy name="ESSB_net1.obj" locked="0" hidden="0"/>
       <point latitude="59.360500343" longitude="17.937520379" heading="-75.71"/>
       <obj_placement custom_msl="0" msl="0.0" resource="objects/Ramp objects/ESSB_net1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_LinePlacement" id="5948" parent_id="1521">
+      <children>
+        <child id="5949"/>
+        <child id="5950"/>
+        <child id="5951"/>
+      </children>
+      <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
+      <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
     </object>
     <object class="WED_ObjPlacement" id="4783" parent_id="3713">
       <children/>
@@ -29673,6 +29953,11 @@
         <child id="4794"/>
       </children>
       <hierarchy name="Facade 1 outer ring" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5902" parent_id="5896">
+      <children/>
+      <hierarchy name="Node 6" locked="0" hidden="0"/>
+      <point latitude="59.358168272" longitude="17.937810153" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_FacadeNode" id="4793" parent_id="4791">
       <children/>
@@ -29732,6 +30017,11 @@
       <point latitude="59.360668607" longitude="17.934660730" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <facade_node wall_type="Wall 1"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5972" parent_id="1120">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.358152593" longitude="17.940320912" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="5157" parent_id="5135">
       <children/>
       <hierarchy name="Node 21" locked="0" hidden="0"/>
@@ -29784,6 +30074,12 @@
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.360872845" longitude="17.934527804" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <facade_node wall_type="Wall 1"/>
+    </object>
+    <object class="WED_AirportSign" id="5980" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}Y5{@Y}30" locked="0" hidden="0"/>
+      <point latitude="59.350708755" longitude="17.955583352" heading="352.41"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="5165" parent_id="5135">
       <children/>
@@ -29872,6 +30168,12 @@
       </children>
       <hierarchy name="Facade 8 outer ring" locked="0" hidden="0"/>
     </object>
+    <object class="WED_AirportSign" id="6006" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}S" locked="0" hidden="0"/>
+      <point latitude="59.358227526" longitude="17.938655795" heading="177.80"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
     <object class="WED_FacadeNode" id="4833" parent_id="4831">
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
@@ -29896,6 +30198,12 @@
       <hierarchy name="Node 1" locked="0" hidden="0"/>
       <point latitude="59.360469190" longitude="17.938553033" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <facade_node wall_type="Wall 1"/>
+    </object>
+    <object class="WED_AirportSign" id="6004" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}R" locked="0" hidden="0"/>
+      <point latitude="59.358436099" longitude="17.937846092" heading="329.04"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
     </object>
     <object class="WED_FacadeNode" id="4839" parent_id="4836">
       <children/>
@@ -29933,6 +30241,11 @@
       <point latitude="59.360038739" longitude="17.935252660" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <facade_node wall_type="Wall 1"/>
     </object>
+    <object class="WED_SimpleBoundaryNode" id="6012" parent_id="4889">
+      <children/>
+      <hierarchy name="Node 3" locked="0" hidden="0"/>
+      <point latitude="59.357152824" longitude="17.940808790"/>
+    </object>
     <object class="WED_FacadeNode" id="4847" parent_id="4836">
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
@@ -29944,6 +30257,11 @@
       <hierarchy name="Node 1" locked="0" hidden="0"/>
       <point latitude="59.360562946" longitude="17.937532512" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <facade_node wall_type="Wall 1"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5958" parent_id="5956">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.359148421" longitude="17.927858933" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_FacadeNode" id="4849" parent_id="4795">
       <children/>
@@ -29976,11 +30294,24 @@
       <point latitude="59.360337614" longitude="17.935877195" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <facade_node wall_type="Wall 1"/>
     </object>
+    <object class="WED_LinePlacement" id="5956" parent_id="1521">
+      <children>
+        <child id="5957"/>
+        <child id="5958"/>
+      </children>
+      <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
+      <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
+    </object>
     <object class="WED_FacadeNode" id="4855" parent_id="4852">
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.360345233" longitude="17.936020920" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <facade_node wall_type="Wall 1"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5966" parent_id="1120">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.358284650" longitude="17.939414211" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_FacadeNode" id="4857" parent_id="4852">
       <children/>
@@ -30011,6 +30342,11 @@
       <hierarchy name="Node 9" locked="0" hidden="0"/>
       <point latitude="59.360996588" longitude="17.937125394" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <facade_node wall_type="Wall 1"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5964" parent_id="5962">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.357202815" longitude="17.941441420" split="0" ctrl_latitude_lo="-0.000126945" ctrl_longitude_lo="0.000037663" ctrl_latitude_hi="0.000126945" ctrl_longitude_hi="-0.000037663"/>
     </object>
     <object class="WED_FacadeNode" id="4863" parent_id="4852">
       <children/>
@@ -30155,12 +30491,12 @@
     <object class="WED_SimpleBoundaryNode" id="4891" parent_id="4889">
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
-      <point latitude="59.357422645" longitude="17.939180164"/>
+      <point latitude="59.357504825" longitude="17.939275896"/>
     </object>
     <object class="WED_SimpleBoundaryNode" id="4892" parent_id="4889">
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
-      <point latitude="59.356900045" longitude="17.940664601"/>
+      <point latitude="59.356937283" longitude="17.940798122"/>
     </object>
     <object class="WED_ObjPlacement" id="5769" parent_id="3965">
       <children/>
@@ -30171,7 +30507,7 @@
     <object class="WED_SimpleBoundaryNode" id="4894" parent_id="4889">
       <children/>
       <hierarchy name="Node 4" locked="0" hidden="0"/>
-      <point latitude="59.357498307" longitude="17.940119157"/>
+      <point latitude="59.357518852" longitude="17.940136792"/>
     </object>
     <object class="WED_ForestPlacement" id="4896" parent_id="4940">
       <children>
@@ -30552,7 +30888,7 @@
     <object class="WED_SimpleBoundaryNode" id="4958" parent_id="4941">
       <children/>
       <hierarchy name="Node 16" locked="0" hidden="0"/>
-      <point latitude="59.359515330" longitude="17.929514107"/>
+      <point latitude="59.359542973" longitude="17.929400382"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="5833" parent_id="5820">
       <children/>
@@ -31244,7 +31580,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="5437" parent_id="5432">
       <children/>
       <hierarchy name="Node 4" locked="0" hidden="0"/>
-      <point latitude="59.356891732" longitude="17.935649667" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.356889152" longitude="17.935642580" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_ObjPlacement" id="5087" parent_id="5064">
       <children/>
@@ -31538,6 +31874,13 @@
       </children>
       <hierarchy name="Polygon 2 Outer Ring" locked="0" hidden="0"/>
     </object>
+    <object class="WED_PolygonPlacement" id="6016" parent_id="1119">
+      <children>
+        <child id="6015"/>
+      </children>
+      <hierarchy name="Asphalt_3_Light.pol" locked="0" hidden="0"/>
+      <polygon_placement heading="0.0" resource="MisterX_Library/Ground_Textures/Asphalt_3_Light.pol"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="5137" parent_id="5135">
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
@@ -31547,6 +31890,11 @@
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.348565949" longitude="17.939755875" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="6020" parent_id="6015">
+      <children/>
+      <hierarchy name="Node 4" locked="0" hidden="0"/>
+      <point latitude="59.359347348" longitude="17.932683338" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="5141" parent_id="5135">
       <children/>
@@ -31562,6 +31910,11 @@
       <children/>
       <hierarchy name="Node 8" locked="0" hidden="0"/>
       <point latitude="59.348685819" longitude="17.941348497" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="6024" parent_id="6015">
+      <children/>
+      <hierarchy name="Node 4" locked="0" hidden="0"/>
+      <point latitude="59.359380020" longitude="17.932393057" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="5145" parent_id="5135">
       <children/>
@@ -31602,6 +31955,11 @@
       <children/>
       <hierarchy name="Node 24" locked="0" hidden="0"/>
       <point latitude="59.348719660" longitude="17.941222956" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5976" parent_id="1120">
+      <children/>
+      <hierarchy name="Node 9" locked="0" hidden="0"/>
+      <point latitude="59.358391779" longitude="17.939372394" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="5161" parent_id="5135">
       <children/>
@@ -31755,6 +32113,11 @@
       </children>
       <hierarchy name="Group 1" locked="0" hidden="1"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5929" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 14" locked="0" hidden="0"/>
+      <point latitude="59.358341475" longitude="17.938844084" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_SimpleBoundaryNode" id="5208" parent_id="5206">
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
@@ -31879,6 +32242,11 @@
         <exclusion value="Facades"/>
       </excluzions>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5905" parent_id="5896">
+      <children/>
+      <hierarchy name="Node 9" locked="0" hidden="0"/>
+      <point latitude="59.358784017" longitude="17.937227338" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_ExclusionZone" id="5248" parent_id="2280">
       <children>
         <child id="5249"/>
@@ -31905,6 +32273,12 @@
       </children>
       <hierarchy name="Forest 12 outer ring" locked="0" hidden="0"/>
     </object>
+    <object class="WED_AirportSign" id="5997" parent_id="5996">
+      <children/>
+      <hierarchy name="{@Y,^l}Y3" locked="0" hidden="0"/>
+      <point latitude="59.357554019" longitude="17.933946779" heading="305.60"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
     <object class="WED_ForestPlacement" id="5276" parent_id="2233">
       <children>
         <child id="5275"/>
@@ -31921,6 +32295,11 @@
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.355296955" longitude="17.932013676"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5937" parent_id="5935">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.359669281" longitude="17.929008531" split="0" ctrl_latitude_lo="0.000010701" ctrl_longitude_lo="0.000064736" ctrl_latitude_hi="-0.000010701" ctrl_longitude_hi="-0.000064736"/>
     </object>
     <object class="WED_SimpleBoundaryNode" id="5280" parent_id="5275">
       <children/>
@@ -31941,6 +32320,11 @@
       <children/>
       <hierarchy name="Node 4" locked="0" hidden="0"/>
       <point latitude="59.358692382" longitude="17.923019831"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5945" parent_id="5943">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.359250883" longitude="17.928220641" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBoundaryNode" id="5288" parent_id="5282">
       <children/>
@@ -31991,6 +32375,11 @@
       <hierarchy name="Node 1" locked="0" hidden="0"/>
       <point latitude="59.360399629" longitude="17.916803154"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5897" parent_id="5896">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.357672728" longitude="17.939143830" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_SimpleBoundaryNode" id="5304" parent_id="5300">
       <children/>
       <hierarchy name="Node 3" locked="0" hidden="0"/>
@@ -32000,6 +32389,11 @@
       <children/>
       <hierarchy name="Node 6" locked="0" hidden="0"/>
       <point latitude="59.361113124" longitude="17.917169921"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5901" parent_id="5896">
+      <children/>
+      <hierarchy name="Node 5" locked="0" hidden="0"/>
+      <point latitude="59.358112986" longitude="17.937873137" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBoundaryNode" id="5308" parent_id="5300">
       <children/>
@@ -32017,6 +32411,11 @@
       <hierarchy name="autogen_tree_any.obj" locked="0" hidden="0"/>
       <point latitude="59.350185775" longitude="17.944528262" heading="180.00"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/g10/forests/autogen_tree_any.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5973" parent_id="1120">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.358306823" longitude="17.940364467" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_ObjPlacement" id="5316" parent_id="2233">
       <children/>
@@ -32041,6 +32440,12 @@
       <hierarchy name="autogen_tree_any.obj" locked="0" hidden="0"/>
       <point latitude="59.349128297" longitude="17.945238190" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/g10/forests/autogen_tree_any.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_AirportSign" id="5981" parent_id="5996">
+      <children/>
+      <hierarchy name="{@Y}30{@L}Y5" locked="0" hidden="0"/>
+      <point latitude="59.350672331" longitude="17.954830030" heading="354.62"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
     </object>
     <object class="WED_ObjPlacement" id="5324" parent_id="2233">
       <children/>
@@ -32096,11 +32501,23 @@
       <point latitude="59.350853723" longitude="17.944086193" heading="123.69"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/g10/forests/autogen_tree_any.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_AirportSign" id="6001" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}Y{@Y}T{^r}" locked="0" hidden="0"/>
+      <point latitude="59.356799348" longitude="17.939569735" heading="125.06"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
     <object class="WED_ObjPlacement" id="5344" parent_id="2233">
       <children/>
       <hierarchy name="autogen_tree_any.obj" locked="0" hidden="0"/>
       <point latitude="59.350646588" longitude="17.944029167" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/g10/forests/autogen_tree_any.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_AirportSign" id="6005" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}R{@Y}T{^u}_T{^r}" locked="0" hidden="0"/>
+      <point latitude="59.358140990" longitude="17.938425073" heading="299.92"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
     </object>
     <object class="WED_ObjPlacement" id="5348" parent_id="2233">
       <children/>
@@ -32119,6 +32536,11 @@
       <hierarchy name="autogen_tree_any.obj" locked="0" hidden="0"/>
       <point latitude="59.350963267" longitude="17.941372772" heading="60.25"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/g10/forests/autogen_tree_any.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="6009" parent_id="4889">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.357192131" longitude="17.939708294"/>
     </object>
     <object class="WED_ObjPlacement" id="5352" parent_id="2233">
       <children/>
@@ -32144,6 +32566,11 @@
       <point latitude="59.355736385" longitude="17.946921105" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/g10/forests/autogen_tree_any.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5953" parent_id="5952">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359270150" longitude="17.927015435" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_ObjPlacement" id="5360" parent_id="2233">
       <children/>
       <hierarchy name="autogen_tree_any.obj" locked="0" hidden="0"/>
@@ -32156,6 +32583,11 @@
       <point latitude="59.355661356" longitude="17.946526582" heading="180.00"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/g10/forests/autogen_tree_any.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5957" parent_id="5956">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359108358" longitude="17.927351020" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_ObjPlacement" id="5364" parent_id="2233">
       <children/>
       <hierarchy name="autogen_tree_any.obj" locked="0" hidden="0"/>
@@ -32167,6 +32599,11 @@
       <hierarchy name="autogen_tree_any.obj" locked="0" hidden="0"/>
       <point latitude="59.355340652" longitude="17.946454382" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/g10/forests/autogen_tree_any.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5961" parent_id="5959">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.359362603" longitude="17.928082656" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_ObjPlacement" id="5368" parent_id="2233">
       <children/>
@@ -32185,6 +32622,11 @@
       <hierarchy name="autogen_tree_any.obj" locked="0" hidden="0"/>
       <point latitude="59.355557259" longitude="17.946400748" heading="0.0"/>
       <obj_placement custom_msl="0" msl="0.0" resource="lib/g10/forests/autogen_tree_any.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5965" parent_id="5962">
+      <children/>
+      <hierarchy name="Node 3" locked="0" hidden="0"/>
+      <point latitude="59.357404155" longitude="17.941146756" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_ObjPlacement" id="5372" parent_id="2233">
       <children/>
@@ -32410,7 +32852,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="5423" parent_id="5417">
       <children/>
       <hierarchy name="Node 6" locked="0" hidden="0"/>
-      <point latitude="59.357891220" longitude="17.937165769" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.357882447" longitude="17.937154632" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="5792" parent_id="5783">
       <children/>
@@ -32435,7 +32877,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="5431" parent_id="5428">
       <children/>
       <hierarchy name="Node 3" locked="0" hidden="0"/>
-      <point latitude="59.358149025" longitude="17.936437271" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.358141800" longitude="17.936429171" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_Ring" id="5432" parent_id="5433">
       <children>
@@ -33629,6 +34071,300 @@
       <point latitude="59.360455402" longitude="17.943393836" heading="-19.23"/>
       <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Harbor/Containers/Single_20ft_Blue.obj" show_level="1 Default"/>
     </object>
+    <object class="WED_ObjPlacement" id="5895" parent_id="4426">
+      <children/>
+      <hierarchy name="Verkstad.obj" locked="0" hidden="0"/>
+      <point latitude="59.360506158" longitude="17.940545523" heading="13.18"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/Misc buildings/Verkstad.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_LinePlacement" id="5896" parent_id="1521">
+      <children>
+        <child id="5897"/>
+        <child id="5898"/>
+        <child id="5899"/>
+        <child id="5900"/>
+        <child id="5901"/>
+        <child id="5902"/>
+        <child id="5903"/>
+        <child id="5904"/>
+        <child id="5905"/>
+        <child id="5906"/>
+      </children>
+      <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
+      <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5898" parent_id="5896">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.357685629" longitude="17.939055745" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5900" parent_id="5896">
+      <children/>
+      <hierarchy name="Node 4" locked="0" hidden="0"/>
+      <point latitude="59.358065725" longitude="17.937967613" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5903" parent_id="5896">
+      <children/>
+      <hierarchy name="Node 7" locked="0" hidden="0"/>
+      <point latitude="59.358258335" longitude="17.937783910" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5906" parent_id="5896">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.359227892" longitude="17.936611700" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5909" parent_id="5907">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.359252598" longitude="17.937248095" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5911" parent_id="5907">
+      <children/>
+      <hierarchy name="Node 4" locked="0" hidden="0"/>
+      <point latitude="59.358762085" longitude="17.937248095" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_LinePlacement" id="5912" parent_id="1521">
+      <children>
+        <child id="5913"/>
+        <child id="5914"/>
+      </children>
+      <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
+      <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5913" parent_id="5912">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359355160" longitude="17.937104148" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5916" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359722154" longitude="17.936811200" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5917" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.359007186" longitude="17.937763537" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5919" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 4" locked="0" hidden="0"/>
+      <point latitude="59.358603476" longitude="17.937954004" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5920" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 5" locked="0" hidden="0"/>
+      <point latitude="59.358506813" longitude="17.937684023" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5922" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 7" locked="0" hidden="0"/>
+      <point latitude="59.358480805" longitude="17.937680378" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5927" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 12" locked="0" hidden="0"/>
+      <point latitude="59.357941443" longitude="17.938770211" split="0" ctrl_latitude_lo="-0.000033885" ctrl_longitude_lo="-0.000083979" ctrl_latitude_hi="0.000033885" ctrl_longitude_hi="0.000083979"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5928" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 13" locked="0" hidden="0"/>
+      <point latitude="59.358018848" longitude="17.938854044" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5930" parent_id="5915">
+      <children/>
+      <hierarchy name="Node 15" locked="0" hidden="0"/>
+      <point latitude="59.358562173" longitude="17.938777017" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_LinePlacement" id="5935" parent_id="1521">
+      <children>
+        <child id="5936"/>
+        <child id="5937"/>
+        <child id="5942"/>
+        <child id="5938"/>
+        <child id="5939"/>
+        <child id="5940"/>
+        <child id="5941"/>
+      </children>
+      <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
+      <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5938" parent_id="5935">
+      <children/>
+      <hierarchy name="Node 3" locked="0" hidden="0"/>
+      <point latitude="59.359549684" longitude="17.928654062" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5940" parent_id="5935">
+      <children/>
+      <hierarchy name="Node 5" locked="0" hidden="0"/>
+      <point latitude="59.359231672" longitude="17.928385733" split="0" ctrl_latitude_lo="0.000103439" ctrl_longitude_lo="-0.000024495" ctrl_latitude_hi="-0.000103439" ctrl_longitude_hi="0.000024495"/>
+    </object>
+    <object class="WED_LinePlacement" id="5943" parent_id="1521">
+      <children>
+        <child id="5944"/>
+        <child id="5945"/>
+        <child id="5946"/>
+        <child id="5947"/>
+      </children>
+      <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
+      <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5944" parent_id="5943">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359419416" longitude="17.928460338" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_LinePlacement" id="5952" parent_id="1521">
+      <children>
+        <child id="5953"/>
+        <child id="5954"/>
+        <child id="5955"/>
+      </children>
+      <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
+      <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5954" parent_id="5952">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.359337949" longitude="17.927728931" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_LinePlacement" id="5959" parent_id="1521">
+      <children>
+        <child id="5960"/>
+        <child id="5961"/>
+      </children>
+      <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
+      <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5960" parent_id="5959">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359581407" longitude="17.928019167" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_LinePlacement" id="5962" parent_id="1521">
+      <children>
+        <child id="5963"/>
+        <child id="5964"/>
+        <child id="5965"/>
+      </children>
+      <hierarchy name="Centerline.lin" locked="0" hidden="0"/>
+      <line_placement resource="MisterX_Library/Airport/Taxilines/Centerline.lin" closed="0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5967" parent_id="1120">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.358025083" longitude="17.939419462" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="5974" parent_id="1293">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.358152593" longitude="17.940320912" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="5985" parent_id="4941">
+      <children/>
+      <hierarchy name="Node 16" locked="0" hidden="0"/>
+      <point latitude="59.359504205" longitude="17.929117069"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="5986" parent_id="4941">
+      <children/>
+      <hierarchy name="Node 15" locked="0" hidden="0"/>
+      <point latitude="59.359489033" longitude="17.929516728"/>
+    </object>
+    <object class="WED_AirportSign" id="5989" parent_id="5996">
+      <children/>
+      <hierarchy name="{@Y}30-12{@L}Y3{@@}Y3" locked="0" hidden="0"/>
+      <point latitude="59.357400100" longitude="17.935439233" heading="36.70"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
+    <object class="WED_AirportSign" id="5990" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}Y3{@Y}30-12{@@,@L}Y3" locked="0" hidden="0"/>
+      <point latitude="59.357182879" longitude="17.936119441" heading="37.18"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
+    <object class="WED_AirportSign" id="5991" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}Y{@@}Y" locked="0" hidden="0"/>
+      <point latitude="59.358271338" longitude="17.935396683" heading="123.69"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
+    <object class="WED_AirportSign" id="5992" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}Y3" locked="0" hidden="0"/>
+      <point latitude="59.357606080" longitude="17.936687232" heading="37.35"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
+    <object class="WED_AirportSign" id="5993" parent_id="5996">
+      <children/>
+      <hierarchy name="{@Y,^l}Y3{@L}Y" locked="0" hidden="0"/>
+      <point latitude="59.357604891" longitude="17.937225616" heading="123.49"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
+    <object class="WED_AirportSign" id="5994" parent_id="5996">
+      <children/>
+      <hierarchy name="{@Y,^l}Y{^r}" locked="0" hidden="0"/>
+      <point latitude="59.358177584" longitude="17.936965702" heading="213.41"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
+    <object class="WED_Group" id="5996" parent_id="1119">
+      <children>
+        <child id="5994"/>
+        <child id="5993"/>
+        <child id="6006"/>
+        <child id="6005"/>
+        <child id="6004"/>
+        <child id="6003"/>
+        <child id="6002"/>
+        <child id="6001"/>
+        <child id="6000"/>
+        <child id="5999"/>
+        <child id="5998"/>
+        <child id="5997"/>
+        <child id="5992"/>
+        <child id="5991"/>
+        <child id="5990"/>
+        <child id="5989"/>
+        <child id="5981"/>
+        <child id="5980"/>
+        <child id="5983"/>
+        <child id="5979"/>
+        <child id="5978"/>
+      </children>
+      <hierarchy name="Signs" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_AirportSign" id="5998" parent_id="5996">
+      <children/>
+      <hierarchy name="{@Y}Y3{^r}" locked="0" hidden="0"/>
+      <point latitude="59.356659025" longitude="17.936586965" heading="123.02"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
+    <object class="WED_AirportSign" id="5999" parent_id="5996">
+      <children/>
+      <hierarchy name="{@Y,^l}3{^r}" locked="0" hidden="0"/>
+      <point latitude="59.357246819" longitude="17.938296417" heading="35.79"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
+    <object class="WED_AirportSign" id="6002" parent_id="5996">
+      <children/>
+      <hierarchy name="{@L}Y" locked="0" hidden="0"/>
+      <point latitude="59.357036027" longitude="17.940280758" heading="305.06"/>
+      <airport_sign style="Default" size="Medium Taxiway"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="6010" parent_id="4889">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.357040567" longitude="17.940420070"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="6021" parent_id="1363">
+      <children/>
+      <hierarchy name="Node 10" locked="0" hidden="0"/>
+      <point latitude="59.359370538" longitude="17.932972015" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="6022" parent_id="6015">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359306648" longitude="17.932364913" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed">
@@ -33642,7 +34378,6 @@
       <item value="16"/>
       <item value="17"/>
       <item value="987"/>
-      <item value="1119"/>
       <item value="1481"/>
       <item value="1489"/>
       <item value="1521"/>
@@ -33674,6 +34409,7 @@
       <item value="4091"/>
       <item value="4092"/>
       <item value="4093"/>
+      <item value="4426"/>
       <item value="4427"/>
       <item value="4428"/>
       <item value="4439"/>
@@ -33685,20 +34421,21 @@
       <item value="5064"/>
       <item value="5205"/>
       <item value="5635"/>
+      <item value="5798"/>
     </pref>
     <pref name="doc/export_target" value="5"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.944895"/>
+    <pref name="map/east" value="17.950194"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.359638"/>
+    <pref name="map/north" value="59.354899"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.358516"/>
+    <pref name="map/south" value="59.350582"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.943009"/>
+    <pref name="map/west" value="17.941426"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
@@ -33720,11 +34457,11 @@
     <pref name="map_Hole_Markings" value=""/>
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="40"/>
-    <pref name="map_Lines_Resource" value="lib/airport/lines/20_road_edge.lin"/>
-    <pref name="map_Objects_Object" value="objects/Misc buildings/Electric1.obj"/>
+    <pref name="map_Lines_Resource" value="MisterX_Library/Airport/Taxilines/Centerline.lin"/>
+    <pref name="map_Objects_Object" value="objects/Misc buildings/Verkstad.obj"/>
     <pref name="map_Objects_Show with" value="750"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
-    <pref name="map_Polygons_Resource" value="MisterX_Library/Ground_Textures/Asphalt_1_Dark.pol"/>
+    <pref name="map_Polygons_Resource" value="MisterX_Library/Ground_Textures/Asphalt_3_Light.pol"/>
     <pref name="map_Polygons_Use Texture Map - Orthophoto" value="0"/>
     <pref name="map_Ramp Start_Airlines" value=""/>
     <pref name="map_Ramp Start_Equipment Type" value="130,131,132"/>
@@ -33744,7 +34481,7 @@
     <pref name="map_Sealane_Buoys" value="1"/>
     <pref name="map_Sign_Size" value="18"/>
     <pref name="map_Sign_Style" value="23"/>
-    <pref name="map_Sign_Text" value="{@L}A"/>
+    <pref name="map_Sign_Text" value="{@L}S"/>
     <pref name="map_Strings_Resource" value="lib/airport/lights/slow/107_centerline_twy_G_uni.str"/>
     <pref name="map_Strings_Spacing" value="5.000000"/>
     <pref name="map_Taxi Routes_Allowed Vehicles" value="144"/>
@@ -33773,9 +34510,9 @@
     <pref name="map_Windsock_Lit" value="0"/>
     <pref name="window/height" value="1397"/>
     <pref name="window/main_split" value="512"/>
-    <pref name="window/main_split2" value="1775"/>
-    <pref name="window/prev_split" value="900"/>
-    <pref name="window/prop_split" value="689"/>
+    <pref name="window/main_split2" value="2016"/>
+    <pref name="window/prev_split" value="920"/>
+    <pref name="window/prop_split" value="709"/>
     <pref name="window/width" value="2496"/>
     <pref name="window/x_loc" value="56"/>
     <pref name="window/y_loc" value="-8"/>
