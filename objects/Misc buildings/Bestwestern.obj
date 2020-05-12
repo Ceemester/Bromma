@@ -3,6 +3,7 @@ I
 OBJ
 
 TEXTURE		Bestwestern.png
+TEXTURE_LIT Bestwestern_LIT.png
 POINT_COUNTS	84 0 0 144
 
 VT	  54.9527   22.0000    0.5623	 0.000  0.956 -0.294	 1.9971  0.0578

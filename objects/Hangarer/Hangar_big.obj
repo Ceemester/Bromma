@@ -3,6 +3,7 @@ I
 OBJ
 
 TEXTURE		Hangar_big.png
+TEXTURE_LIT		Hangar_big_LIT.png
 POINT_COUNTS	423 0 0 819
 
 VT	  62.0000    0.0000   -0.0000	 1.000  0.000 -0.000	 0.5359  0.6451

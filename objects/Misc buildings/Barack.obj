@@ -3,6 +3,7 @@ I
 OBJ
 
 TEXTURE		Barack.png
+TEXTURE_LIT		Barack_LIT.png
 POINT_COUNTS	20 0 0 30
 
 VT	   9.0000    5.6000   -0.0000	 0.000  1.000 -0.000	 0.5837  1.4994
