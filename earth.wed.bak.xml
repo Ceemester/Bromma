@@ -147,9 +147,7 @@
     <object class="WED_Select" id="2" parent_id="1">
       <children/>
       <hierarchy name="selection"/>
-      <selection>
-        <sel id="18"/>
-      </selection>
+      <selection/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1970" parent_id="1965">
       <children/>
@@ -552,7 +550,7 @@
       </children>
       <hierarchy name="12/30" locked="0" hidden="0"/>
       <line width="45.00"/>
-      <runway surface="Transparent" shoulder="None" roughness="0.0" center_lites="0" edge_lites="LIRL" distance_signs="0" displaced1="116.0" blastpad1="0.0" markings1="Precision (US)" app_lites1="Calvert" TDZL1="0" REIL1="Omnidirectional REIL" displaced2="110.0" blastpad2="0.0" markings2="Precision (US)" app_lites2="Calvert-II" TDZL2="0" REIL2="Omnidirectional REIL"/>
+      <runway surface="Transparent" shoulder="None" roughness="0.0" center_lites="0" edge_lites="LIRL" distance_signs="0" displaced1="0.0" blastpad1="0.0" markings1="Precision (US)" app_lites1="Calvert" TDZL1="0" REIL1="Omnidirectional REIL" displaced2="110.0" blastpad2="0.0" markings2="Precision (US)" app_lites2="Calvert-II" TDZL2="0" REIL2="Omnidirectional REIL"/>
     </object>
     <object class="WED_TextureBezierNode" id="3469" parent_id="3466">
       <children/>
@@ -44368,17 +44366,17 @@
     </pref>
     <pref name="doc/export_target" value="5"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.934146"/>
+    <pref name="map/east" value="17.930559"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.360008"/>
+    <pref name="map/north" value="59.359667"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.356706"/>
+    <pref name="map/south" value="59.358075"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.926238"/>
+    <pref name="map/west" value="17.926745"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
