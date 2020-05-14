@@ -1,0 +1,11 @@
+A
+850
+LINE_PAINT
+LAYER_GROUP markings +2
+
+TEXTURE Runway_centerline.png
+
+LOD 5000
+TEX_WIDTH 265
+SCALE 2 48
+S_OFFSET 0 0 128 256

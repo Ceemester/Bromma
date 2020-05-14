@@ -1,0 +1,10 @@
+A
+850
+DRAPED_POLYGON
+LAYER_GROUP taxiways -1
+
+TEXTURE Runway_tiling.png
+TEXTURE_NORMAL 1.0 Runway_tiling_NML.png
+SURFACE asphalt
+SCALE 65 65
+GLOBAL_specular	0.5
