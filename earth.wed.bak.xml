@@ -131,7 +131,7 @@
       <children/>
       <hierarchy name="selection"/>
       <selection>
-        <sel id="9902"/>
+        <sel id="9905"/>
       </selection>
     </object>
     <object class="WED_TextureBezierNode" id="3517" parent_id="3515">
@@ -16307,6 +16307,7 @@
         <child id="9886"/>
         <child id="8502"/>
         <child id="8542"/>
+        <child id="9905"/>
         <child id="9902"/>
         <child id="9896"/>
         <child id="5428"/>
@@ -40449,6 +40450,11 @@
       <hierarchy name="Node 1" locked="0" hidden="0"/>
       <point latitude="59.353442386" longitude="17.948754262"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="9907" parent_id="9905">
+      <children/>
+      <hierarchy name="Node 2" locked="0" hidden="0"/>
+      <point latitude="59.359251224" longitude="17.931075566" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_ObjPlacement" id="6912" parent_id="2239">
       <children/>
       <hierarchy name="Parking_Space_8.obj" locked="0" hidden="0"/>
@@ -45613,6 +45619,11 @@
       <hierarchy name="Node 4" locked="0" hidden="0"/>
       <point latitude="59.359518193" longitude="17.931772439" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_SimpleBezierBoundaryNode" id="9906" parent_id="9905">
+      <children/>
+      <hierarchy name="Node 1" locked="0" hidden="0"/>
+      <point latitude="59.359447178" longitude="17.931018093" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="8451" parent_id="8446">
       <children/>
       <hierarchy name="Node 5" locked="0" hidden="0"/>
@@ -48848,6 +48859,14 @@
       <children/>
       <hierarchy name="Node 1" locked="0" hidden="0"/>
       <point latitude="59.352383993" longitude="17.948222818" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+    </object>
+    <object class="WED_LinePlacement" id="9905" parent_id="2057">
+      <children>
+        <child id="9906"/>
+        <child id="9907"/>
+      </children>
+      <hierarchy name="Hold.lin" locked="0" hidden="0"/>
+      <line_placement resource="MisterX_Library/Airport/Taxilines/Hold.lin" closed="0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="8966" parent_id="8963">
       <children/>
@@ -52636,17 +52655,17 @@
     </pref>
     <pref name="doc/export_target" value="5"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.936471"/>
+    <pref name="map/east" value="17.931709"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.357629"/>
+    <pref name="map/north" value="59.359594"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.357080"/>
+    <pref name="map/south" value="59.359046"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.935294"/>
+    <pref name="map/west" value="17.930532"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
@@ -52668,7 +52687,7 @@
     <pref name="map_Hole_Markings" value=""/>
     <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
     <pref name="map_Light Fixture_Fixture Type" value="40"/>
-    <pref name="map_Lines_Resource" value="MisterX_Library/Airport/Taxilines/Runway_Hold.lin"/>
+    <pref name="map_Lines_Resource" value="MisterX_Library/Airport/Taxilines/Hold.lin"/>
     <pref name="map_Objects_Object" value="PuF_Libs/GroundStuff/Puddles/Puddle_24m_B.obj"/>
     <pref name="map_Objects_Show with" value="750"/>
     <pref name="map_Polygons_Heading" value="0.000000"/>
