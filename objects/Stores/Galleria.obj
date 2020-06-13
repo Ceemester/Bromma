@@ -2,8 +2,8 @@ I
 800
 OBJ
 
-TEXTURE		Galleria.png
-TEXTURE_LIT Galleria_LIT.png
+TEXTURE		Galleria.dds
+TEXTURE_LIT Galleria_LIT.dds
 POINT_COUNTS	170 0 0 312
 
 VT	  96.7870   15.0000   -0.0000	 0.000  1.000 -0.000	 0.1659  1.4629

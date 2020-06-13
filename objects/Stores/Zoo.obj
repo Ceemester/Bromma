@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE		Zoo.png
+TEXTURE		Zoo.dds
 TEXTURE_NORMAL		Zoo_NML.png
 GLOBAL_specular	0.4
 POINT_COUNTS	256 0 0 468

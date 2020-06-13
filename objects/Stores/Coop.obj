@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE		Coop.png
+TEXTURE		Coop.dds
 TEXTURE_LIT		Coop_LIT.png
 POINT_COUNTS	100 0 0 180
 

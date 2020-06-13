@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE		Elon.png
+TEXTURE		Elon.dds
 TEXTURE_NORMAL	Elon_NML.png
 GLOBAL_specular	1
 POINT_COUNTS	154 0 0 282
