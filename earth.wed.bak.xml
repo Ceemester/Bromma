@@ -148,7 +148,7 @@
       <children/>
       <hierarchy name="selection"/>
       <selection>
-        <sel id="18"/>
+        <sel id="12267"/>
       </selection>
     </object>
     <object class="WED_KeyObjects" id="3" parent_id="1">
@@ -2928,7 +2928,6 @@
         <child id="6659"/>
         <child id="4545"/>
         <child id="4544"/>
-        <child id="4542"/>
         <child id="6863"/>
         <child id="4555"/>
         <child id="4554"/>
@@ -2940,8 +2939,6 @@
         <child id="4551"/>
         <child id="4550"/>
         <child id="4549"/>
-        <child id="4541"/>
-        <child id="4540"/>
       </children>
       <hierarchy name="Cars Airside" locked="0" hidden="0"/>
     </object>
@@ -21345,6 +21342,9 @@
         <child id="7811"/>
         <child id="7810"/>
         <child id="5634"/>
+        <child id="12481"/>
+        <child id="12480"/>
+        <child id="12479"/>
         <child id="7809"/>
         <child id="8714"/>
         <child id="7812"/>
@@ -30447,33 +30447,15 @@
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.357974677" longitude="17.946221585" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
-    <object class="WED_ObjPlacement" id="4540" parent_id="1481">
-      <children/>
-      <hierarchy name="FF-Insatsbil.obj" locked="0" hidden="0"/>
-      <point latitude="59.358124897" longitude="17.945993907" heading="123.15"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="FF-XP-Library/DIVERSE/FF-Insatsbil.obj" show_level="1 Default"/>
-    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="4621" parent_id="4618">
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
       <point latitude="59.358216076" longitude="17.937978838" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
-    <object class="WED_ObjPlacement" id="4541" parent_id="1481">
-      <children/>
-      <hierarchy name="FF-Insatsbil.obj" locked="0" hidden="0"/>
-      <point latitude="59.358101280" longitude="17.945963984" heading="302.41"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="FF-XP-Library/DIVERSE/FF-Insatsbil.obj" show_level="1 Default"/>
-    </object>
     <object class="WED_SimpleBezierBoundaryNode" id="11791" parent_id="11788">
       <children/>
       <hierarchy name="Node 3" locked="0" hidden="0"/>
       <point latitude="59.352625798" longitude="17.951682468" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
-    </object>
-    <object class="WED_ObjPlacement" id="4542" parent_id="1481">
-      <children/>
-      <hierarchy name="FF-Insatsbil.obj" locked="0" hidden="0"/>
-      <point latitude="59.358069058" longitude="17.946206919" heading="-65.94"/>
-      <obj_placement custom_msl="0" msl="0.0" resource="FF-XP-Library/DIVERSE/FF-Insatsbil.obj" show_level="1 Default"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="5926" parent_id="5915">
       <children/>
@@ -62259,6 +62241,24 @@
       <point latitude="59.358452875" longitude="17.930238801" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
       <texture_node s="0.0" t="1.0000" sc_lo="0.0" tc_lo="0.0" sc_hi="0.0" tc_hi="0.0"/>
     </object>
+    <object class="WED_ObjPlacement" id="12479" parent_id="2638">
+      <children/>
+      <hierarchy name="Honda_CR_V_Silver.obj" locked="0" hidden="0"/>
+      <point latitude="59.358095304" longitude="17.945973248" heading="115.55"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/MisterX6/Cars/Honda_CR_V_Silver.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="12480" parent_id="2638">
+      <children/>
+      <hierarchy name="Honda_CR_V_Silver.obj" locked="0" hidden="0"/>
+      <point latitude="59.358046402" longitude="17.946201603" heading="115.55"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/MisterX6/Cars/Honda_CR_V_Silver.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="12481" parent_id="2638">
+      <children/>
+      <hierarchy name="Honda_CR_V_Silver.obj" locked="0" hidden="0"/>
+      <point latitude="59.358022929" longitude="17.946188171" heading="-65.51"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/MisterX6/Cars/Honda_CR_V_Silver.obj" show_level="1 Default"/>
+    </object>
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed">
@@ -62266,6 +62266,7 @@
       <item value="8"/>
       <item value="9"/>
       <item value="10"/>
+      <item value="11"/>
       <item value="12"/>
       <item value="15"/>
       <item value="16"/>
@@ -62323,17 +62324,17 @@
     </pref>
     <pref name="doc/export_target" value="4"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.964971"/>
+    <pref name="map/east" value="17.947880"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.354818"/>
+    <pref name="map/north" value="59.358822"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.345046"/>
+    <pref name="map/south" value="59.357244"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.943479"/>
+    <pref name="map/west" value="17.944407"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
