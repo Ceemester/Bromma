@@ -137,7 +137,7 @@
       <children/>
       <hierarchy name="selection"/>
       <selection>
-        <sel id="12482"/>
+        <sel id="5055"/>
       </selection>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1054" parent_id="1049">
@@ -34282,7 +34282,7 @@
     <object class="WED_ObjPlacement" id="5055" parent_id="5635">
       <children/>
       <hierarchy name="SAS.obj" locked="0" hidden="0"/>
-      <point latitude="59.352735074" longitude="17.938238315" heading="87.40"/>
+      <point latitude="59.352748603" longitude="17.938237109" heading="87.40"/>
       <obj_placement custom_msl="0" msl="0.0" resource="objects/Misc things/SAS.obj" show_level="1 Default"/>
     </object>
     <object class="WED_ObjPlacement" id="5414" parent_id="2233">
@@ -65514,17 +65514,17 @@
     </pref>
     <pref name="doc/export_target" value="4"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.939248"/>
+    <pref name="map/east" value="17.938657"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.353126"/>
+    <pref name="map/north" value="59.353090"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.352408"/>
+    <pref name="map/south" value="59.352674"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.937561"/>
+    <pref name="map/west" value="17.937681"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
