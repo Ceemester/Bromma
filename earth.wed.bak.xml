@@ -148,7 +148,7 @@
       <children/>
       <hierarchy name="selection"/>
       <selection>
-        <sel id="14007"/>
+        <sel id="951"/>
       </selection>
     </object>
     <object class="WED_KeyObjects" id="3" parent_id="1">
@@ -358,6 +358,8 @@
         <child id="2446"/>
         <child id="2445"/>
         <child id="953"/>
+        <child id="15172"/>
+        <child id="15171"/>
         <child id="954"/>
         <child id="7611"/>
         <child id="955"/>
@@ -370,6 +372,7 @@
         <child id="1345"/>
         <child id="1344"/>
         <child id="1343"/>
+        <child id="15170"/>
         <child id="4420"/>
         <child id="960"/>
         <child id="961"/>
@@ -382,7 +385,6 @@
         <child id="970"/>
         <child id="971"/>
         <child id="972"/>
-        <child id="976"/>
         <child id="3861"/>
         <child id="3860"/>
         <child id="13713"/>
@@ -2714,8 +2716,8 @@
     <object class="WED_RampPosition" id="968" parent_id="10">
       <children/>
       <hierarchy name="Gate 5" locked="0" hidden="0"/>
-      <point latitude="59.355618888" longitude="17.943051476" heading="83.77"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <point latitude="59.355629142" longitude="17.943212856" heading="83.77"/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_LinePlacement" id="7637" parent_id="2057">
       <children>
@@ -2888,7 +2890,7 @@
       <children/>
       <hierarchy name="Gate 10" locked="0" hidden="0"/>
       <point latitude="59.355842484" longitude="17.944228498" heading="-142.13"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="15" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="3362" parent_id="3360">
       <children/>
@@ -4041,12 +4043,6 @@
       <hierarchy name="unnamed entity" locked="0" hidden="0"/>
       <point latitude="59.359116100" longitude="17.939269980" split="1" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.000005770" ctrl_longitude_hi="0.000042080"/>
       <markings/>
-    </object>
-    <object class="WED_RampPosition" id="976" parent_id="10">
-      <children/>
-      <hierarchy name="Apron Remote North -  6 (Small)" locked="0" hidden="0"/>
-      <point latitude="59.359336901" longitude="17.940502184" heading="178.97"/>
-      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_AirportNode" id="162" parent_id="48">
       <children/>
@@ -12093,14 +12089,14 @@
     <object class="WED_RampPosition" id="954" parent_id="10">
       <children/>
       <hierarchy name="Apron 4 - 3" locked="0" hidden="0"/>
-      <point latitude="59.359193002" longitude="17.937075072" heading="-124.09"/>
-      <ramp_start type="Misc" traffic="63" width="A" ramp_op_type="None" airlines=""/>
+      <point latitude="59.359274993" longitude="17.937072983" heading="-124.09"/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_RampPosition" id="955" parent_id="10">
       <children/>
       <hierarchy name="Apron 4 - 2" locked="0" hidden="0"/>
-      <point latitude="59.359429578" longitude="17.936860531" heading="231.34"/>
-      <ramp_start type="Misc" traffic="63" width="A" ramp_op_type="None" airlines=""/>
+      <point latitude="59.359489208" longitude="17.936778213" heading="236.46"/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="3592" parent_id="3585">
       <children/>
@@ -12111,7 +12107,7 @@
       <children/>
       <hierarchy name="Gate 11" locked="0" hidden="0"/>
       <point latitude="59.356471325" longitude="17.944502552" heading="87.63"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="15" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_PolygonPlacement" id="3586" parent_id="1119">
       <children>
@@ -12124,7 +12120,7 @@
       <children/>
       <hierarchy name="Gate 12" locked="0" hidden="0"/>
       <point latitude="59.356959453" longitude="17.944130837" heading="78.82"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="15" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1548" parent_id="1541">
       <children/>
@@ -12135,7 +12131,7 @@
       <children/>
       <hierarchy name="Gate 13" locked="0" hidden="0"/>
       <point latitude="59.357241735" longitude="17.943233071" heading="75.05"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="15" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_RampPosition" id="961" parent_id="10">
       <children/>
@@ -12162,8 +12158,8 @@
     <object class="WED_RampPosition" id="966" parent_id="10">
       <children/>
       <hierarchy name="Gate 3" locked="0" hidden="0"/>
-      <point latitude="59.355063822" longitude="17.944562116" heading="90.87"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <point latitude="59.355062935" longitude="17.944650900" heading="90.87"/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_PolygonPlacement" id="2340" parent_id="2640">
       <children>
@@ -12185,14 +12181,14 @@
     <object class="WED_RampPosition" id="967" parent_id="10">
       <children/>
       <hierarchy name="Gate 4" locked="0" hidden="0"/>
-      <point latitude="59.355350405" longitude="17.943832970" heading="80.96"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <point latitude="59.355359012" longitude="17.943951930" heading="80.96"/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_RampPosition" id="969" parent_id="10">
       <children/>
       <hierarchy name="Gate 6" locked="0" hidden="0"/>
-      <point latitude="59.355864159" longitude="17.942484930" heading="109.66"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <point latitude="59.355851218" longitude="17.942549005" heading="109.66"/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1115" parent_id="1104">
       <children/>
@@ -12203,7 +12199,7 @@
       <children/>
       <hierarchy name="Gate 8" locked="0" hidden="0"/>
       <point latitude="59.356327765" longitude="17.942507970" heading="-88.70"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="15" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2344" parent_id="2339">
       <children/>
@@ -12214,7 +12210,7 @@
       <children/>
       <hierarchy name="Gate 9" locked="0" hidden="0"/>
       <point latitude="59.356060089" longitude="17.943256526" heading="267.06"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="15" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="3369" parent_id="3360">
       <children/>
@@ -14075,7 +14071,7 @@
       <children/>
       <hierarchy name="Apron Remote North - 3" locked="0" hidden="0"/>
       <point latitude="59.358703064" longitude="17.939789789" heading="-89.00"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_SimpleBoundaryNode" id="14579" parent_id="7793">
       <children/>
@@ -14086,13 +14082,13 @@
       <children/>
       <hierarchy name="Apron Remote North - 2" locked="0" hidden="0"/>
       <point latitude="59.358999303" longitude="17.939825051" heading="-89.00"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_RampPosition" id="1345" parent_id="10">
       <children/>
       <hierarchy name="Apron Remote North - 1" locked="0" hidden="0"/>
       <point latitude="59.359295319" longitude="17.939817928" heading="-89.00"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1776" parent_id="1754">
       <children/>
@@ -14103,7 +14099,7 @@
       <children/>
       <hierarchy name="Apron Remote North - 4" locked="0" hidden="0"/>
       <point latitude="59.358404174" longitude="17.939789373" heading="-89.00"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_LinePlacement" id="2301" parent_id="1119">
       <children>
@@ -14417,7 +14413,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1419" parent_id="1417">
       <children/>
       <hierarchy name="Node 2" locked="0" hidden="0"/>
-      <point latitude="59.355933033" longitude="17.942095297" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.355932350" longitude="17.942095800" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="1565" parent_id="1541">
       <children/>
@@ -14427,7 +14423,7 @@
     <object class="WED_SimpleBezierBoundaryNode" id="1420" parent_id="1417">
       <children/>
       <hierarchy name="Node 3" locked="0" hidden="0"/>
-      <point latitude="59.355841759" longitude="17.942607785" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
+      <point latitude="59.355841076" longitude="17.942608288" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="2066" parent_id="2058">
       <children/>
@@ -26893,8 +26889,8 @@
     <object class="WED_RampPosition" id="7611" parent_id="10">
       <children/>
       <hierarchy name="Apron 7 - 1" locked="0" hidden="0"/>
-      <point latitude="59.360342426" longitude="17.938065644" heading="196.43"/>
-      <ramp_start type="Misc" traffic="63" width="A" ramp_op_type="None" airlines=""/>
+      <point latitude="59.360287226" longitude="17.938023523" heading="196.43"/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_ObjPlacement" id="4104" parent_id="4093">
       <children/>
@@ -29734,7 +29730,7 @@
       <children/>
       <hierarchy name="Gate 14" locked="0" hidden="0"/>
       <point latitude="59.357543102" longitude="17.942428064" heading="88.62"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="15" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_ObjPlacement" id="5367" parent_id="2233">
       <children/>
@@ -29752,7 +29748,7 @@
       <children/>
       <hierarchy name="Gate 7" locked="0" hidden="0"/>
       <point latitude="59.356525895" longitude="17.941927975" heading="214.39"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="15" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_FacadeRing" id="4852" parent_id="4853">
       <children>
@@ -43282,7 +43278,7 @@
       <children/>
       <hierarchy name="Apron Remote North - 5" locked="0" hidden="0"/>
       <point latitude="59.359022353" longitude="17.941470367" heading="-10.49"/>
-      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
     </object>
     <object class="WED_SimpleBezierBoundaryNode" id="8719" parent_id="8715">
       <children/>
@@ -73482,6 +73478,24 @@
       <hierarchy name="Node 3" locked="0" hidden="0"/>
       <point latitude="59.357671862" longitude="17.939147775" split="0" ctrl_latitude_lo="0.0" ctrl_longitude_lo="0.0" ctrl_latitude_hi="0.0" ctrl_longitude_hi="0.0"/>
     </object>
+    <object class="WED_RampPosition" id="15170" parent_id="10">
+      <children/>
+      <hierarchy name="Gate 15" locked="0" hidden="0"/>
+      <point latitude="59.357849512" longitude="17.941746074" heading="214.86"/>
+      <ramp_start type="Misc" traffic="63" width="C" ramp_op_type="None" airlines=""/>
+    </object>
+    <object class="WED_RampPosition" id="15171" parent_id="10">
+      <children/>
+      <hierarchy name="Apron 4 - 4" locked="0" hidden="0"/>
+      <point latitude="59.359072592" longitude="17.937343750" heading="-124.09"/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
+    </object>
+    <object class="WED_RampPosition" id="15172" parent_id="10">
+      <children/>
+      <hierarchy name="Apron 4 - 5" locked="0" hidden="0"/>
+      <point latitude="59.358451589" longitude="17.937168254" heading="102.91"/>
+      <ramp_start type="Misc" traffic="63" width="B" ramp_op_type="None" airlines=""/>
+    </object>
   </objects>
   <prefs>
     <pref name="PropertyPane0/Closed">
@@ -73551,17 +73565,17 @@
     </pref>
     <pref name="doc/export_target" value="4"/>
     <pref name="doc/xml_compatibility" value="107"/>
-    <pref name="map/east" value="17.925534"/>
+    <pref name="map/east" value="17.941556"/>
     <pref name="map/navaid_map_vis" value="1"/>
-    <pref name="map/north" value="59.364122"/>
+    <pref name="map/north" value="59.360684"/>
     <pref name="map/obj_density" value="6"/>
     <pref name="map/pavement_alpha" value="1"/>
     <pref name="map/preview_vis" value="1"/>
     <pref name="map/real_lines_vis" value="1"/>
     <pref name="map/slippy_vis" value="2"/>
-    <pref name="map/south" value="59.359277"/>
+    <pref name="map/south" value="59.357319"/>
     <pref name="map/vertices_vis" value="1"/>
-    <pref name="map/west" value="17.915431"/>
+    <pref name="map/west" value="17.934540"/>
     <pref name="map/world_map_vis" value="0"/>
     <pref name="map_Airport Beacon_Kind" value="69"/>
     <pref name="map_Boundary_.Markings" value=""/>
